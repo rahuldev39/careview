@@ -1485,9 +1485,11 @@ a {
     right: -93px;
 }
 .banner-text {
-    max-width: 377px;
+    font-weight: 500 !important;
+    max-width: 349px;
     margin-right: 0px;
-    line-height: 48px;
+    line-height: 37px;
+    font-size: 28px;
 }
 .certification img{
     display: inline-block !important;
@@ -1499,7 +1501,7 @@ a {
 }
 .certification-text {
     margin-bottom: 10px !important;
-    font-size: 18px;
+    font-size: 16px;
 }
 .banner-inner{
     max-width: 1200px;
@@ -1522,6 +1524,15 @@ a {
 }
 @media(max-width: 768px){
     .about-ions .row > div:nth-child(2n) {
+
+        border-right: 0px;
+    }
+    .col-lg-3.col-md-6.ll::after{
+        display: none;
+    }
+}
+@media(max-width: 576px){
+    .about-ions .row > div {
 
         border-right: 0px;
     }
@@ -1570,6 +1581,15 @@ a {
     }
 }
 @media(max-width: 768px){
+    .certification img {
+        height: 33px;
+    }
+    .banner .online img {
+        max-height: 30px;
+    }
+    .phone-text {
+        font-size: 25px;
+    }
     .slick-dots{
         bottom: 12px;
     }

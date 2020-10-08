@@ -48,7 +48,7 @@ include "header.php" ?>
       
 
   <div class="SliderJs_box bs2">
-		  <div class="banner-1 banner-bg" style="background: url('./img/banner3-bg.jpg')">
+		  <div class="banner-1 banner-bg" style="background-image: url('./img/banner3-bg.jpg')">
 		  <div class="banner-inner">
 		  <div class="row h-100">
 				<div class="col-lg-7 col-md-6 banner-left">
@@ -63,7 +63,7 @@ include "header.php" ?>
 					<div class="certification-text text-purple">
 					<span> Certified by:</span> <strong>DRDO & ISI</strong> 
 					</div>	
-					<div class="certification mb-4">
+					<div class="certification mb-3">
 						<img src="./img/certification.png" alt="">
 					</div>	
 					</div>
@@ -81,7 +81,7 @@ include "header.php" ?>
 	  </div>
 
       <div class="SliderJs_box bs2">
-		  <div class="banner-bg" style="background: url('./img/banner1-bg.jpg')">
+		  <div class="banner-bg" style="background-image: url('./img/banner1-bg.jpg')">
 		  <div class="banner-inner">
 		  <div class="row h-100">
 				<div class="col-lg-7 col-md-6 banner-left">
@@ -115,7 +115,7 @@ ONLINE</h2>
 	  
 
 	  <div class="SliderJs_box bs2">
-		  <div class="banner-bg" style="background: url('./img/banner2-bg.jpg')">
+		  <div class="banner-bg" style="background-image: url('./img/banner2-bg.jpg')">
 		  <div class="banner-inner">
 		  <div class="row h-100">
 				<div class="col-lg-7 col-md-6 banner-left">

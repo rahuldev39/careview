@@ -21,6 +21,7 @@
       .banner .SliderJs_box > div {
         background-size: cover !important;
         height: calc(100vh - 78px);
+        background-position: right;
     }
 .slick-dotted.slick-slider {
     margin-bottom: 0;
