@@ -1,0 +1,15 @@
+[08-Sep-2020 06:43:39 UTC] PHP Notice:  Undefined index: full_name in /home/ninegrapes/public_html/View/sendmail.php on line 33
+[08-Sep-2020 06:43:39 UTC] PHP Notice:  Undefined index: organization in /home/ninegrapes/public_html/View/sendmail.php on line 35
+[08-Sep-2020 06:43:39 UTC] PHP Notice:  Undefined index: country in /home/ninegrapes/public_html/View/sendmail.php on line 37
+[08-Sep-2020 06:43:39 UTC] PHP Notice:  Undefined index: mobile_number in /home/ninegrapes/public_html/View/sendmail.php on line 41
+[08-Sep-2020 06:43:39 UTC] PHP Notice:  Undefined index: remarks in /home/ninegrapes/public_html/View/sendmail.php on line 43
+[08-Sep-2020 06:43:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ninegrapes/public_html/View/sendmail.php:33) in /home/ninegrapes/public_html/View/sendmail.php on line 67
+[08-Sep-2020 06:47:28 UTC] PHP Notice:  Undefined index: mobile_number in /home/ninegrapes/public_html/View/sendmail.php on line 41
+[08-Sep-2020 06:54:34 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/ninegrapes/public_html/View/sendmail.php on line 49
+[08-Sep-2020 06:56:33 UTC] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/ninegrapes/public_html/View/sendmail.php on line 49
+[09-Sep-2020 07:08:53 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'ninegrap_careview'@'localhost' (using password: YES) in /home2/ab77068/careview.in/sendmail.php on line 7
+[09-Sep-2020 07:08:53 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/ab77068/careview.in/sendmail.php on line 25
+[09-Sep-2020 07:34:12 America/Chicago] PHP Notice:  Use of undefined constant “smtp” - assumed '“smtp”' in /home2/ab77068/careview.in/sendmail.php on line 52
+[09-Sep-2020 07:38:27 America/Chicago] PHP Notice:  Use of undefined constant “smtp” - assumed '“smtp”' in /home2/ab77068/careview.in/sendmail.php on line 52
+[14-Sep-2020 06:29:14 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home2/ab77068/careview.in/header.php on line 115
+[14-Sep-2020 06:29:47 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home2/ab77068/careview.in/header.php on line 115
