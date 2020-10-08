@@ -1418,7 +1418,7 @@ a {
     max-width: initial;
     position: absolute;
     bottom: 0px;
-    right: 0px;
+   left: 0px;
 }
 .banner-heading {
     position: relative;
@@ -1580,7 +1580,7 @@ a {
         font-size: 31px;
     }
 }
-@media(max-width: 768px){
+@media(max-width: 767px){
     .certification img {
         height: 33px;
     }
@@ -1626,5 +1626,44 @@ a {
     }
     .banner-left{
         min-height: 250px;
+    }
+}
+
+@media(max-width: 576px){
+    .banner-heading {
+        font-size: 26px;
+        padding-bottom: 27px;
+    }
+    .banner-text {
+        line-height: 36px;
+    }
+    .banner-subheading {
+        font-size: 18px;
+    }
+    .phone-text {
+        font-size: 20px;
+    }
+    .phone-text img {
+        width: 13px;
+    }
+    .banner .online img {
+        max-height: 22px;
+    }
+    .banner .online img {
+        max-height: 20px;
+    }
+    .banner-text {
+        line-height: 28px;
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    .banner .online {
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+    .mask-images {
+        height: 82% !important;
+        right: 0px;
+        bottom: 30px;
     }
 }
