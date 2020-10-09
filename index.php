@@ -40,7 +40,7 @@ include "header.php" ?>
 
 
 <div id="fullpage">
-    <div class="section">
+    <div class="section aboutus vertical-scrolling" id="section0">
 		
 		<div class="banner">
   <div class="SliderJs">
@@ -153,7 +153,7 @@ ONLINE</h2>
 
         
 
-		 <div class="section">
+		 <div class="section aboutus vertical-scrolling" id="section1">
                 
                 
                 <section>
@@ -170,7 +170,7 @@ ONLINE</h2>
                 
          </div><!-- section2 -->
         
-    <div class="section" style="    background: linear-gradient(0deg, rgb(0, 205, 161) 0%, rgb(45, 40, 146) 100%);">
+    <div class="section vertical-scrolling" id="section2" style="    background: linear-gradient(0deg, rgb(0, 205, 161) 0%, rgb(45, 40, 146) 100%);">
         
 				<!-- Start About Area Area -->
 		<div >
@@ -271,13 +271,13 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
     
     
     
-    <div class="section"  style="background: linear-gradient(0deg, rgba(45,40,146,1) 0%, rgba(0,205,161,1) 100%);" >
+    <div class="section aboutus vertical-scrolling " id="section3"  style="background: linear-gradient(0deg, rgba(45,40,146,1) 0%, rgba(0,205,161,1) 100%);" >
 			 <section >
 			 <div class="row no-gutters">
 					<div class="col-lg-5 grd-bgd">
 						<div class="block-padder">
 						    	<h2 class="our">Download Our Brochure </h2>
-							<p class="our mb-5">Know more about our extensive range of protective masks exclusively designed for protection and comfort of wearer.</p>
+							<p class="our mb-4">Know more about our extensive range of protective masks exclusively designed for protection and comfort of wearer.</p>
 							<!--<img src="img/Brochure.jpg" alt="Image">-->
 						
 							
@@ -451,7 +451,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
   <!--  </div>-->
     
 
-    <div class="section SitePlan site-map">
+    <div class="section aboutus SitePlan site-map vertical-scrolling " id="section4">
      
          <!-- Start Footer Top Area -->
 		<footer class="footer-top-area f-bg  jarallax py-5" data-jarallax='{"speed": 0.3}'>
@@ -661,13 +661,14 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 		
 		</div>
 		
-	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+		<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
 
 <script src="newjs/jquery.min.js"></script>
 <script src="newjs/popper.min.js"></script>
 <script src="newjs/bootstrap.min.js"></script>
 <script src="newjs/slick.min.js"></script>
+<script src="newjs/jquery.fullPage.js"></script>
 <!--<script src="newjs/jquery.fancybox.min.js"></script>-->
 <script src="newjs/custom.js"></script>
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
@@ -698,7 +699,7 @@ $('.myslider').slick({
 
 slidesToScroll: 1,
 arrows: false,
-speed: 1000,
+speed: 2000,
 dots: true,
 autoplay: true,
 vertical: false,
@@ -723,8 +724,21 @@ pauseOnHover: false,
 
 
 
+<script>
 
-
+$("#fullpage").fullpage({
+        anchors: ["Home", "About", "Connectivity", "Amenities", "Floorplans", "Siteplan", "Specification", "Footer"],
+        lockAnchors: false,
+		navigation: false,
+        navigation: !0,
+        sectionSelector: ".vertical-scrolling",
+        navigationTooltips: ["First page", "Second page", "Third and last page"],
+        responsiveWidth: 900,
+        afterResponsive: function(o) {},
+        scrollingSpeed: 700,
+     
+    })
+</script>
 
 </body>
 </html>

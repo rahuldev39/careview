@@ -24,7 +24,7 @@
         background-position: right;
     }
 .slick-dotted.slick-slider {
-    margin-bottom: 0;
+    margin-bottom: 0  !important;
 }
       @media (max-width: 768px){
         #sitepop .modal-dialog{

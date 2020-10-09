@@ -282,87 +282,64 @@ Our plant to manufacture masks as per the standards of National Institute for Oc
 		<section class="client-area ptb-40">
 			<div class="container">
 				
-				<div class="col-md-12">
-				    <div class="row">
+
 				    <div class="gallery-wrapper">
-                          <div class="image-wrapper">
+
+            <div class="row">
+				    <div class="col-md-6">
+              <div class="row">
+                <div class="col-6">
+                <div class="image-wrapper">
                             <a href="#lightbox-image-1">
                               <img src="img/c2.png" alt="">
                               <!--<div class="image-title">Manufacturing Unit</div>-->
                             </a>
     </div>
-                          <div class="image-wrapper">
+               
+                </div>
+                <div class="col-6">
+                <div class="image-wrapper">
                             <a href="#lightbox-image-2">
                               <img src="img/c1.png" alt="">
                               <!--<div class="image-title">Mother Machine</div>-->
                             </a>
     </div>
-                          <div class="image-wrapper">
+                </div>
+              </div>
+
+				    <p class="m-unit mt-4">Manufacturing Unit</p>
+				</div>
+				<div class="col-md-6">
+
+        <div class="row">
+                <div class="col-6">
+                             
+                <div class="image-wrapper">
                             <a href="#lightbox-image-3">
                               <img src="img/c3.png" alt="">
                               <!--<div class="image-title">Corporate Office</div>-->
                             </a>
     </div>
-                          <div class="image-wrapper">
+                </div>
+                <div class="col-6">
+                <div class="image-wrapper">
                             <a href="#lightbox-image-4">
                               <img src="img/c4.png" alt="">
                               <!--<div class="image-title">Our Team</div>-->
                             </a>
     </div>
+                </div>
+            </div>
+            <p class="m-unit mt-4">Corporate Office</p>
+            
+            
+				</div>
+				</div>
+                          
+                          
                     </div>
 
-<!--<div class="gallery-lightboxes">-->
-  
-<!--  <div class="image-lightbox" id="lightbox-image-1">-->
-<!--    <div class="image-lightbox-wrapper">-->
-<!--      <a href="#" class="close"></a>-->
-<!--      <a href="#lightbox-image-3" class="arrow-left"></a>-->
-<!--      <a href="#lightbox-image-2" class="arrow-right"></a>-->
-<!--      <img src="img/c33.png" alt="">-->
-<!--      <div class="image-title">Manufacturing Unit</div>-->
-<!--    </div>-->
-<!--  </div>-->
-  
-<!--  <div class="image-lightbox" id="lightbox-image-2">-->
-<!--    <div class="image-lightbox-wrapper">-->
-<!--      <a href="#" class="close"></a>-->
-<!--      <a href="#lightbox-image-1" class="arrow-left"></a>-->
-<!--      <a href="#lightbox-image-3" class="arrow-right"></a>-->
-<!--      <img src="img/c44.png" alt="">-->
-<!--      <div class="image-title">Mother Machine</div>-->
-<!--    </div>-->
-<!--  </div>-->
-  
-<!--  <div class="image-lightbox" id="lightbox-image-3">-->
-<!--    <div class="image-lightbox-wrapper">-->
-<!--      <a href="#" class="close"></a>-->
-<!--      <a href="#lightbox-image-2" class="arrow-left"></a>-->
-<!--      <a href="#lightbox-image-1" class="arrow-right"></a>-->
-<!--      <img src="img/c22.png" alt="">-->
-<!--      <div class="image-title">Corporate Office</div>-->
-<!--    </div>-->
-<!--  </div>-->
-<!--  <div class="image-lightbox" id="lightbox-image-4">-->
-<!--    <div class="image-lightbox-wrapper">-->
-<!--      <a href="#" class="close"></a>-->
-<!--      <a href="#lightbox-image-2" class="arrow-left"></a>-->
-<!--      <a href="#lightbox-image-1" class="arrow-right"></a>-->
-<!--      <img src="img/c11.png" alt="">-->
-<!--      <div class="image-title">Our team</div>-->
-<!--    </div>-->
-<!--  </div>-->
-  
-<!--</div>-->
-				    </div>
-				</div>
-				<div class="row">
-				    <div class="col-md-6">
-				    <p class="m-unit">Manufacturing Unit</p>
-				</div>
-				<div class="col-md-6">
-				    <p class="m-unit">Corporate Office</p>
-				</div>
-				</div>
+				
 			</div>
 		</section>
 		    

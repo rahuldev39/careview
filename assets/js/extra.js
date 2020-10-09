@@ -381,18 +381,6 @@
 
 
 
-    $("#fullpage").fullpage({
-        anchors: ["Home", "About", "Connectivity", "Amenities", "Floorplans", "Siteplan", "Specification", "Footer"],
-        lockAnchors: false,
-        navigation: !0,
-        sectionSelector: ".vertical-scrolling",
-        navigationPosition: "right",
-        navigationTooltips: ["First page", "Second page", "Third and last page"],
-        responsiveWidth: 900,
-        afterResponsive: function(o) {},
-        
-     
-    }), 
  
        
 $('.myslider').slick({

@@ -42,7 +42,8 @@
 		<title>Careview</title>
     </head>
 
-    <body >
+    <body onload="myFunction()">
+        <div id="loading"></div>
        
 		 
 		
