@@ -254,8 +254,6 @@
 		<script src="assets/js/custom.js"></script>
 		
 		
-		
-		
 		<script>window.twttr = (function (d, s, id) {
   var t, js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -283,9 +281,6 @@
 		}
 		</script>
 		
-		<script>
-		    
-		    
-		</script>
+	
     </body>
 </html>

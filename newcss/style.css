@@ -1537,6 +1537,34 @@ a {
         border-right: 0px;
     }
 }
+
+.page-title h2{
+    color: #4b46a1;
+    font-weight: 700;
+    font-family: "ProximaNovaA-Light";
+    font-size: 30px;
+}
+.page-title-area{
+    margin-top: 78px;
+}
+.header-area{
+    padding-bottom: 1px;
+}
+.mean-container a.meanmenu-reveal span {
+    display: none;
+}
+.mean-container a.meanmenu-reveal {
+    padding: 0px;
+    right: 12px !important;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.mean-container a.meanmenu-reveal:not(.meanclose) {
+    background-image: url(../img/menu.svg);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: bottom left;
+}
 /* Responsive */
 @media(min-width: 1367px){
 

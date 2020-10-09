@@ -29,7 +29,7 @@
 				
 				<div class="col-md-12">
 				    <div class="row">
-				    <div class="col-md-12 about-content">
+				    <div class="col-md-12 page-title">
 				        <h2 class="text-center">3PLY MASK</h2>
 				        
 				    </div>

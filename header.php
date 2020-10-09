@@ -32,6 +32,11 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
 		<!-- Favicon -->
 		<link rel="icon" type="image/png" href="assets/img/favicon.png">
+
+		<!--<link rel="stylesheet" type="text/css" href="newcss/bootstrap.min.css">-->
+		<link rel="stylesheet" type="text/css" href="newcss/style.css">
+
+		<link rel="stylesheet" type="text/css" href="newcss/extra.css">
 		
 		<!-- Title -->
 		<title>Careview</title>

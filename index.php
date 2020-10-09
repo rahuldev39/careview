@@ -8,13 +8,12 @@ $page = 'home';
 include "header.php" ?>
 
 
-    <!--<link rel="stylesheet" type="text/css" href="newcss/bootstrap.min.css">-->
-    <link rel="stylesheet" type="text/css" href="newcss/style.css">
+ 
     <!--<link rel="stylesheet" type="text/css" href="newcss/responsive.css">-->
     <link rel="stylesheet" type="text/css" href="newcss/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="newcss/slick.min.css">
     <link rel="stylesheet" type="text/css" href="newcss/slick-theme.css">
-    <link rel="stylesheet" type="text/css" href="newcss/extra.css">
+   
     
     <!--<link rel="stylesheet" type="text/css" href="newcss/jquery.fancybox.min.css">-->
     
@@ -500,16 +499,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 						</div>
 					</div>
 
-					<div class="col-lg-3 col-md-6 ll">
-						
-                        <div class="twt">
-    
-                            <a class="twitter-timeline" style="" data-dnt="true" href="https://twitter.com/careview_india" data-widget-id="515125528169160704">Tweets by @Careview</a>
-                            <div id="example1"></div>
-                                            
-                        </div>
- 
-					</div>	<!-- End twitter-->			
+					
 	
 					<div class="col-lg-3 col-md-6 ll">
 						<div class="single-widget">
@@ -619,7 +609,16 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 						</div>
 					</div>
 					
-	              	
+					<div class="col-lg-3 col-md-6 ll">
+						
+                        <div class="twt">
+    
+                            <a class="twitter-timeline" style="" data-dnt="true" href="https://twitter.com/careview_india" data-widget-id="515125528169160704">Tweets by @Careview</a>
+                            <div id="example1"></div>
+                                            
+                        </div>
+ 
+					</div>	<!-- End twitter-->			
 
 					<div class="col-lg-3 col-md-6">
 						<div class="single-widget contact">

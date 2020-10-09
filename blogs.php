@@ -1,8 +1,6 @@
 <?php include "header.php" ?>
 
 
-    <!--<link rel="stylesheet" type="text/css" href="newcss/bootstrap.min.css">-->
-    <link rel="stylesheet" type="text/css" href="newcss/style.css">
     <!--<link rel="stylesheet" type="text/css" href="newcss/responsive.css">-->
     <link rel="stylesheet" type="text/css" href="newcss/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="newcss/slick.min.css">
