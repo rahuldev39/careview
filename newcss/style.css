@@ -1472,10 +1472,10 @@ a {
     margin-top:15px
 }
 .block-padder{
-    padding: 60px 45px;
+    padding: 100px 30px 20px 30px;
 }
-.brochure-slider{
-    max-width: 300px;
+.brochure-slider {
+    max-width: 238px;
 }
 .sqft img {
     max-width: 73px;
@@ -1655,6 +1655,10 @@ a {
     .banner-left{
         min-height: 250px;
     }
+    #section1, #section1 .fp-tableCell{
+            height: auto !important;
+    }
+    
 }
 
 @media(max-width: 576px){
@@ -1714,4 +1718,13 @@ a {
 }
 #fp-nav{
     display: none;
+}
+.fp-tableCell{
+    vertical-align: top;
+}
+#particles-js{
+    min-height: 100vh !important;
+}
+.mh-100vh{
+    min-height: 100vh !important;
 }

@@ -22,11 +22,14 @@
 		<!-- End Page Title Area -->
 
 		<!-- Start Project Area -->
-		<section class="project-area project-page ptb-100">
+		<section class="project-area project-page ">
 			<div class="container-fluid">
-				<div class="section-title">
-					<h2>Our Products</h2>
+
+			<div class="ptb-100">
+				<div class="col-md-12 page-title">
+					<h2 class="text-center">Our Products</h2> 
 				</div>
+			</div>
 
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">

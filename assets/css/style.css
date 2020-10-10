@@ -1771,6 +1771,8 @@ Footer Top Area Style
   background-size: cover;
   position: relative;
   z-index: 1;
+  height: 100%;
+  padding: 100px 0px 20px 0px !important;
 }
 
 .footer-top-area::before {
@@ -8195,11 +8197,11 @@ div#stats {
 .about-content {
   margin-top: 5px;
   margin-bottom: 5px;
-  padding: 60px 45px;
+  padding: 100px 30px 20px 30px;
   position: relative;
 }
 .about-ions{
-  padding: 60px 45px;
+  padding: 100px 30px 20px 30px;
 }
 
 

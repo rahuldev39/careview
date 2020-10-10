@@ -193,7 +193,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 						</div>
 					
 					</div>
-					<div class="col-lg-7 grd-bg">
+					<div class="col-lg-7 d-none d-lg-block grd-bg">
 						<div class="about-ions">
 						<div class="row">
 						        <div class="col-md-4   col-sm-6">
@@ -275,7 +275,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 			 <section >
 			 <div class="row no-gutters">
 					<div class="col-lg-5 grd-bgd">
-						<div class="block-padder">
+						<div class="block-padder mh-100vh">
 						    	<h2 class="our">Download Our Brochure </h2>
 							<p class="our mb-4">Know more about our extensive range of protective masks exclusively designed for protection and comfort of wearer.</p>
 							<!--<img src="img/Brochure.jpg" alt="Image">-->
@@ -326,7 +326,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 						
 					</div>
 					
-					<div class="col-lg-7" style="background:#fff;">
+					<div class="col-lg-7 d-none d-lg-block" style="background:#fff;">
 							<div class="block-padder">
 						    	<h2 class="indus">Our Industry Clientele </h2>
 							<p class="mb-5">With huge production capacity clubbed with skilled workers working day and night, we ensure to fulfill each bulk order on time.</p>
