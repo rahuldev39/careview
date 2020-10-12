@@ -1579,12 +1579,7 @@ a {
     margin-bottom: 15px;
     }
 }
-@media(max-width: 576px){
-    .about-ions .row > div {
 
-        border-right: 0px;
-    }
-}
 
 .page-title h2{
     color: #4b46a1;
@@ -1788,15 +1783,33 @@ a {
         right: 0px;
         bottom: 30px;
     }
-    .myslider ul.slick-dots {
-        left: -2px !important;
-    }
+   
     .myslider .slick-dots li {
         height: 11px !important;
         width: 11px !important;
     }
 }
+@media(max-width: 576px){
+    .about-ions .row > div {
 
+        border-right: 0px;
+    }
+
+    .secondary-slider-right .slider-img-right {
+        width: 100px;
+        height: 100px;
+    }
+    .slider-left-content h2 {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .slider-left-content h4 {
+        font-size: 30px;
+    }
+    .slider-left-content p {
+        font-size: 14px;
+    }
+}
 @media(max-width: 480px){
     .mask-images {
         height: auto!important;
