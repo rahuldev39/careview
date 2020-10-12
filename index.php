@@ -88,7 +88,7 @@ include "header.php" ?>
 				</div>
 				<div class="col-lg-5 col-md-6 banner-right text-md-right">
 					<div>
-					<h2 class="banner-heading text-green">We are available
+					<h2 class="banner-heading text-green">WE ARE AVAILABLE
 ONLINE</h2>
 
 
@@ -159,13 +159,144 @@ ONLINE</h2>
                 <section>
 	                
 	                   <div class="myslider">
-  <a href="http://careview.in/n95-mask.php#CV-1221"><div class="item a"> <img src="./img/product/01.png" style=""></div></a>
-  <a href="http://careview.in/n95-mask.php#CV-1221V"><div class="item b"><img  src="./img/product/02.png" style=""></div></a>
-   <a href="http://careview.in/n95-mask.php#CV-1221H"><div class="item c"><img  src="./img/product/03.png" style=""></div></a>
-  <a href="http://careview.in/n95-mask.php#CV-1221HV"><div class="item d"><img  src="./img/product/04.png" style=""></div></a>
-  <a href="http://careview.in/3ply-mask.php#CV-2992"><div class="item e"><img  src="./img/product/05.png" style=""></div></a>
-  <a href="http://careview.in/3ply-mask.php#CV-2992M"><div class="item f"><img  src="./img/product/06.png" style=""></div></a>
-</div>
+
+					   <div class="secondary-slider-item bg-darkblue">
+					   	<div class="row h-100">
+							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
+								<div class="slider-left-content px-5">
+									<h4>CV-1221</h4>
+									<h2>N-95 masks with Ear Loops</h2>
+									<p>CV-1221 comes with comfortable ear loops, in-built nose pin, ultrasonic sealing and 6 layers of filtration which makes it a perfect and affordable choice for protection.</p>
+									<a class="default-btn banner_btn2" href="http://careview.in/n95-mask.php#CV-1221">Know More</a>
+								</div>
+								
+							</div>
+							<div class="col-lg-6  position-relative secondary-slider-right">
+								<div class="separator">
+								<img src="./img/slider-separator.png" alt="">
+								</div>
+							
+									<img src="./img/slider-right1.png" class="slider-img-right" alt="">
+							
+							</div>
+						</div>
+					   </div>
+
+
+					   <div class="secondary-slider-item bg-darkblue">
+					   	<div class="row h-100">
+							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
+								<div class="slider-left-content px-5">
+									<h4>CV-1221HV</h4>
+									<h2>N95 MASKS  LOOPS & RESPIRATOR VALVE</h2>
+									<p>CV-1221HV offers a perfect fit and easy breathability with flexible head loops and free flow respirator valve along with in-built nose pin, ultrasonic sealing and 6 layers of filtration.</p>
+									<a class="default-btn banner_btn2" href="http://careview.in/n95-mask.php#CV-1221V">Know More</a>
+								</div>
+								
+							</div>
+							<div class="col-lg-6  position-relative secondary-slider-right">
+								<div class="separator">
+								<img src="./img/slider-separator.png" alt="">
+								</div>
+						
+									<img src="./img/slider-right2.png" class="slider-img-right" alt="">
+								
+							</div>
+						</div>
+					   </div>
+
+					   <div class="secondary-slider-item bg-darkblue">
+					   	<div class="row h-100">
+							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
+								<div class="slider-left-content px-5">
+									<h4>CV-1221H</h4>
+									<h2>N95 MASKS WITH HEAD LOOPS</h2>
+									<p>CV-1221H offers a perfect fit with flexible head loops along with in-built nose pin, ultrasonic sealing and 6 layers of filtration making it suitable for long wearing hours without any discomfort.</p>
+									<a class="default-btn banner_btn2" href="http://careview.in/n95-mask.php#CV-1221H">Know More</a>
+								</div>
+								
+							</div>
+							<div class="col-lg-6  position-relative secondary-slider-right">
+								<div class="separator">
+								<img src="./img/slider-separator.png" alt="">
+								</div>
+							
+									<img src="./img/slider-right3.png" class="slider-img-right" alt="">
+							
+							</div>
+						</div>
+					   </div>
+
+
+					   <div class="secondary-slider-item bg-darkblue">
+					   	<div class="row h-100">
+							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
+								<div class="slider-left-content px-5">
+									<h4>CV-1221HV</h4>
+									<h2>N95 MASKS WITH HEAD LOOPS & RESPIRATOR VALVE</h2>
+									<p>CV-1221HV offers a perfect fit and easy breathability with flexible head loops and free flow respirator valve along with in-built nose pin, ultrasonic sealing and 6 layers of filtration.</p>
+									<a class="default-btn banner_btn2" href="http://careview.in/n95-mask.php#CV-1221HV">Know More</a>
+								</div>
+								
+							</div>
+							<div class="col-lg-6  position-relative secondary-slider-right">
+								<div class="separator">
+								<img src="./img/slider-separator.png" alt="">
+								</div>
+					
+									<img src="./img/slider-right4.png" class="slider-img-right" alt="">
+					
+							</div>
+						</div>
+					   </div>
+
+					   <div class="secondary-slider-item bg-darkblue">
+					   	<div class="row h-100">
+							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
+								<div class="slider-left-content px-5">
+									<h4>CV-2992</h4>
+									<h2>DISPOSABLE 3 PLY MASKS FOR REGULAR USE</h2>
+									<p>CV-2992, the disposable 3 ply mask with SSSMMS filtration layer inside, provides an effective protection against air borne diseases.</p>
+									<a class="default-btn banner_btn2" href="http://careview.in/3ply-mask.php#CV-2992">Know More</a>
+								</div>
+								
+							</div>
+							<div class="col-lg-6 position-relative secondary-slider-right">
+								<div class="separator">
+								<img src="./img/slider-separator.png" alt="">
+								</div>
+							
+									<img src="./img/slider-right5.png" class="slider-img-right" alt="">
+							
+							</div>
+						</div>
+					   </div>
+
+					   <div class="secondary-slider-item bg-darkblue">
+					   	<div class="row h-100">
+							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
+								<div class="slider-left-content px-5">
+									<h4>CV-2992M</h4>
+									<h2>DISPOSABLE 3 PLY MASKS FOR MEDICAL USE</h2>
+									<p>CV-2992M, the disposable 3 ply mask with meltblown filtration layer inside, are ideal for medical usage for effective protection against air borne diseases and particulate matter.</p>
+									<a class="default-btn banner_btn2" href="http://careview.in/3ply-mask.php#CV-2992M">Know More</a>
+								</div>
+								
+							</div>
+							<div class="col-lg-6 position-relative secondary-slider-right">
+								<div class="separator">
+								<img src="./img/slider-separator.png" alt="">
+								</div>
+							
+									<img src="./img/slider-right6.png" class="slider-img-right" alt="">
+							
+							</div>
+						</div>
+					   </div>
+
+						
+
+						</div>
 	        	</section>
                 
          </div><!-- section2 -->
@@ -276,7 +407,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 			 <div class="row no-gutters">
 					<div class="col-lg-5 grd-bgd">
 						<div class="block-padder mh-100vh">
-						    	<h2 class="our">Download Our Brochure </h2>
+						    	<h2 class="our section-title">Download Our Brochure </h2>
 							<p class="our mb-4">Know more about our extensive range of protective masks exclusively designed for protection and comfort of wearer.</p>
 							<!--<img src="img/Brochure.jpg" alt="Image">-->
 						
@@ -300,7 +431,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 						</div>
 						</div>
 							<div class="row">
-							<div class="col-md-6">
+							<div class="col-sm-6">
 							    <div class="btn1 day">
 						    <!--<a href="#" class="buttonDownoad">Download</a>-->
 						    <a href="../View/img/CV_Brochure.pdf" target="_blank" class="default-btn">
@@ -308,7 +439,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 							</a>
 						</div>	
 							</div>
-							<div class="col-md-6">
+							<div class="col-sm-6">
 							    <div class="btn1 day">
 						    <!--<a href="#" class="buttonDownload">Download</a>-->
 						    <a href="img/3ply_Brochure.pdf" target="_blank" class="default-btn">
@@ -610,13 +741,52 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 					</div>
 					
 					<div class="col-lg-3 col-md-6 ll">
+					<div class="single-widget contact">
+							<h3>Latest Tweet</h3>
+							<div class="tweet-list">
+								<ul>
+									<li class="d-flex ">
+										<div class="twitter-icon-wrap mr-2"> 
+										<i class="bx bxl-twitter"></i>
+										</div>
+										<div class="tweetaya-body">
+											<p>Coming Soon, Stay Tuned 
+												<a href="#" target="_blank" rel="nofollow noopener">#jannah</a> <a href="#" target="_blank" rel="nofollow noopener">#big_update</a>
+												<a href="#" target="_blank" rel="nofollow noopener">#jannah5</a> <a href="#" target="_blank" rel="nofollow noopener">#wordpress</a>
+												<a href="#" target="_blank" rel="nofollow noopener">https://t.co/IQsH1hLnMr</a></p>
+											<span class="tweetaya-meta">2020/08/20</span>
+										</div>
+									</li>
+									<li class="d-flex ">
+										<div class="twitter-icon-wrap mr-2"> 
+										<i class="bx bxl-twitter"></i>
+										</div>
+										<div class="tweetaya-body">
+											<p>Our new plugin WPCOVID-19 helps WordPress sites’ owners to
+												display Coronavirus real-time data easily on their sites… <a href="#" target="_blank" rel="nofollow noopener">https://t.co/953KekMqq0</a></p>
+												<span class="tweetaya-meta">2020/08/20</span>
+										</div>
+									</li>
+
+									<li class="d-flex ">
+										<div class="twitter-icon-wrap mr-2"> 
+										<i class="bx bxl-twitter"></i>
+										</div>
+										<div class="tweetaya-body">
+											<p>Coming Soon, Stay Tuned 
+												<a href="#" target="_blank" rel="nofollow noopener">#jannah</a> <a href="#" target="_blank" rel="nofollow noopener">#big_update</a>
+												<a href="#" target="_blank" rel="nofollow noopener">#jannah5</a> <a href="#" target="_blank" rel="nofollow noopener">#wordpress</a>
+												<a href="#" target="_blank" rel="nofollow noopener">https://t.co/IQsH1hLnMr</a></p>
+												<span class="tweetaya-meta">2020/08/20</span>
+										</div>
+									</li>
+								</ul>
+													
+								</div>	
+
+					</div>
 						
-                        <div class="twt">
-    
-                            <a class="twitter-timeline" style="" data-dnt="true" href="https://twitter.com/careview_india" data-widget-id="515125528169160704">Tweets by @Careview</a>
-                            <div id="example1"></div>
-                                            
-                        </div>
+                       
  
 					</div>	<!-- End twitter-->			
 

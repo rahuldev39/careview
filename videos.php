@@ -27,7 +27,7 @@
 
 			<div class="ptb-100">
 				<div class="col-md-12 page-title">
-					<h2 class="text-center">Our Products</h2> 
+					<h2 class="text-center">Our Gallery</h2> 
 				</div>
 			</div>
 

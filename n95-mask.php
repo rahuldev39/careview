@@ -82,7 +82,7 @@ include "header.php" ?>
 
 							 <div class="btn1">
 						    <!--<a href="#" class="buttonDownload">Download</a>-->
-						    <a href="../View/img/CV_Brochure.pdf" target="_blank" class="default-btn" style="margin-top:20px;font-weight:bold;">
+						    <a href="../View/img/CV-1221.pdf" target="_blank" class="default-btn" style="margin-top:20px;font-weight:bold;">
 								DOWNLOAD BROCHURE
 							</a>
 						</div>
@@ -151,7 +151,7 @@ include "header.php" ?>
 
 							<div class="btn1">
 						    <!--<a href="#" class="buttonDownload">Download</a>-->
-						    <a href="../View/img/CV_Brochure.pdf" target="_blank" class="default-btn" style="margin-top:20px;font-weight:bold;">
+						    <a href="../View/img/CV-1221v.pdf" target="_blank" class="default-btn" style="margin-top:20px;font-weight:bold;">
 								DOWNLOAD BROCHURE
 							</a>
 						</div>
@@ -210,7 +210,7 @@ include "header.php" ?>
 
 							<div class="btn1">
 						    <!--<a href="#" class="buttonDownload">Download</a>-->
-						    <a href="../View/img/CV_Brochure.pdf" target="_blank" class="default-btn" style="margin-top:20px;font-weight:bold;">
+						    <a href="../View/img/CV-1221H.pdf" target="_blank" class="default-btn" style="margin-top:20px;font-weight:bold;">
 								DOWNLOAD BROCHURE
 							</a>
 						</div>
@@ -279,7 +279,7 @@ include "header.php" ?>
 							</ul>
                             <div class="btn1">
 						    <!--<a href="#" class="buttonDownload">Download</a>-->
-						    <a href="../View/img/CV_Brochure.pdf" target="_blank" class="default-btn" style="margin-top:20px;font-weight:bold;">
+						    <a href="../View/img/CV-1221HV.pdf" target="_blank" class="default-btn" style="margin-top:20px;font-weight:bold;">
 								DOWNLOAD BROCHURE
 							</a>
 						</div>

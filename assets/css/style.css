@@ -3381,7 +3381,7 @@ Page Title Area Style
 .page-title-area.bg-26 {
   background-image: url(http://careview.in/img/part.png);
       background-size: cover;
-    background-position: right;
+    background-position: center;
         height: 280px;
 }
 

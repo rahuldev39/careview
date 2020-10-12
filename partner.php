@@ -42,7 +42,7 @@ include "header.php" ?>
 		
 		
 		
-		<section class="contact-area ptb-100">
+		<section class="contact-area">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-8">

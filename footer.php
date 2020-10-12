@@ -166,7 +166,7 @@
 
 					<div class="col-lg-3 col-md-6">
 						<div class="single-widget contact">
-							<h3>Get In Touch</h3>
+							<h3>GET IN TOUCH</h3>
 
 							<ul>
 								<li class="pl-0">
