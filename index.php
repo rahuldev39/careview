@@ -873,7 +873,7 @@ speed: 2000,
 dots: true,
 autoplay: true,
 vertical: false,
-verticalSwiping: true,
+verticalSwiping: false,
 pauseOnHover: false,
     
 });
