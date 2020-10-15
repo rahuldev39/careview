@@ -125,7 +125,7 @@
 						</div>
 					</div>
 				
-					<div class="col-lg-6 pl-0">
+					<div class="col-lg-6 pl-0 right-content">
 						<div class="about-content mask" style="background-color:#00AA8A; height:550px;">
 							<h2>CV-2992M</h2>
 							<span>Disposable Protective 3 Ply Mask with Melt-Blown Layer</span>

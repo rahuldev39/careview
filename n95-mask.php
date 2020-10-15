@@ -119,7 +119,7 @@ include "header.php" ?>
 						</div>
 					</div>
 				
-					<div class="col-lg-6 pl-0">
+					<div class="col-lg-6 pl-0 right-content">
 						<div class="about-content mask" style="background:#00AA8A;">
 							<h2>CV-1221V</h2>
 							<span>N95 | FFP2 Protective Mask with Ear Loops and Exhalation Valve</span>
@@ -248,7 +248,7 @@ include "header.php" ?>
 						</div>
 					</div>
 				
-					<div class="col-lg-6 pl-0">
+					<div class="col-lg-6 pl-0 right-content">
 						<div class="about-content mask" style="background-color:#00AA8A;">
 							<h2>CV-1221HV</h2>
 							<span>N95 | FFP2 Protective Mask with Head Loops and Exhalation Valve</span>
