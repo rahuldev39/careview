@@ -106,6 +106,9 @@
 						<a href="index.php" class="logo">
 							<img src="assets/img/logo.png" alt="Logo">
 						</a>
+						<a href="tel:+91 9953218688" class="whatapp-mobile">
+							<img src="./img/whatsapp.svg" class="w-100" alt="">
+						</a>
 					</div>
 
 					<!-- Menu For Desktop Device -->

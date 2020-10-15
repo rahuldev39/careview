@@ -1608,6 +1608,17 @@ a {
     background-size: 30px;
     background-position: bottom left;
 }
+.whatapp-mobile {
+    position: absolute;
+    z-index: 1000;
+    right: 63px;
+    top: 21px;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 2px;
+    background-color: #00cda1;
+    width: 36px;
+}
 /* Responsive */
 @media(min-width: 1367px){
 
