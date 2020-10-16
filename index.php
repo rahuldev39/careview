@@ -585,7 +585,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
     <div class="section aboutus SitePlan site-map vertical-scrolling " id="section4">
      
          <!-- Start Footer Top Area -->
-		<footer class="footer-top-area f-bg  jarallax py-5" data-jarallax='{"speed": 0.3}'>
+		<footer class="footer-top-area f-bg  jarallax py-5">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3 col-md-6 ll">
@@ -823,6 +823,15 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 					</div>
 				</div>
 			</div>
+
+			<div class="footer-bottom-area">
+			<div class="container">
+				<div class="copy-right text-center">
+					<span>© Copyright 2020 Care View. All Rights Reserved By <a href="http://careview.in/" target="blank">Careview</a></span>
+				</div>
+			</div>
+		</div>
+
 		</footer>
 		<!-- End Footer Top Area -->
     </div><!-- Footer -->

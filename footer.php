@@ -1,6 +1,6 @@
 
 		<!-- Start Footer Top Area -->
-			<footer class="footer-top-area f-bg pt-100 pb-70 jarallax" data-jarallax='{"speed": 0.3}'>
+			<footer class="footer-top-area f-bg pt-100 pb-70 jarallax">
 			<div class="container">
 				<div class="row" style="margin-top:0px;">
 					<div class="col-lg-3 col-md-6 ll">
@@ -197,6 +197,13 @@
 					</div>
 				</div>
 			</div>
+			<div class="footer-bottom-area">
+			<div class="container">
+				<div class="copy-right text-center">
+					<span>© Copyright 2020 Care View. All Rights Reserved By <a href="http://careview.in/" target="blank">Careview</a></span>
+				</div>
+			</div>
+		</div>
 		</footer>
 		<!-- End Footer Top Area -->
 

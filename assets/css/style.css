@@ -1817,12 +1817,13 @@ Footer Top Area Style
 .single-widget p {
   margin-bottom: 0;
   color: #ffffff;
+  font-size: 14px;
 }
 
 .single-widget ul li {
   color: #ffffff;
-  margin-bottom: 8px;
-  font-size: 15px;
+  margin-bottom: 2px;
+  font-size: 14px;
 }
 
 .single-widget ul li:last-child {
@@ -1937,9 +1938,18 @@ Footer Bottom Area Style
 ======================================================*/
 .footer-bottom-area {
   background-color: #05224c;
-  padding: 20px 0;
+  padding: 4px 0;
+  z-index: 1;
+  color: white;
+  font-family: "ProximaNovaA-light";
+  font-size: 13px;
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
 }
-
+.footer-bottom-area a {
+  color: #00cda1;
+}
 .footer-bottom-area .copy-right {
   text-align: center;
 }
@@ -8249,7 +8259,7 @@ background: linear-gradient(0deg, rgba(45,40,146,1) 0%, rgba(0,205,161,1) 100%);
     display: block;
     background: rgb(255, 255, 255);
     width: 1px;
-    height: 525px;
+    height: 100%;
     right: 2px;
     top: 0px;
     position: absolute;
