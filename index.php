@@ -582,10 +582,10 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
   <!--  </div>-->
     
 
-    <div class="section aboutus SitePlan site-map vertical-scrolling " id="section4">
+    <div class="section aboutus SitePlan site-map vertical-scrolling footer-top-area" id="section4">
      
          <!-- Start Footer Top Area -->
-		<footer class="footer-top-area f-bg  jarallax py-5">
+		<footer class="f-bg footer-main  jarallax">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-3 col-md-6 ll">

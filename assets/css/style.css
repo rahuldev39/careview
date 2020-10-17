@@ -1772,9 +1772,11 @@ Footer Top Area Style
   position: relative;
   z-index: 1;
   height: 100%;
-  padding: 100px 0px 20px 0px !important;
 }
-
+.footer-main{
+  padding-top: 100px;
+  padding-bottom: 58px;
+}
 .footer-top-area::before {
   content: "";
   position: absolute;
