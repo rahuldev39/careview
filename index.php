@@ -304,8 +304,8 @@ ONLINE</h2>
     <div class="section vertical-scrolling" id="section2" style="    background: linear-gradient(0deg, rgb(0, 205, 161) 0%, rgb(45, 40, 146) 100%);">
         
 				<!-- Start About Area Area -->
-		<div >
-		<div class="row no-gutters">
+	
+		<div class="row no-gutters h-100">
 					<div class="col-lg-5 position-relative" >
 					    <div id="particles-js" class="bg-white position-absolute w-100 h-100">
 						
@@ -395,7 +395,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 					
 					</div>
 				</div>
-		</div>
+		
 		<!-- End About Area -->
 		
     </div><!-- section1 -->
@@ -461,7 +461,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 							<div class="block-padder">
 						    	<h2 class="indus">Our Industry Clientele </h2>
 							<p class="mb-5">With huge production capacity clubbed with skilled workers working day and night, we ensure to fulfill each bulk order on time.</p>
-							<img src="assets/img/multi-logo1.jpg" alt="Image" style="">
+							<img src="assets/img/multi-logo1.jpg" class="clients-logo-list" alt="Image" style="">
 						</div>
 						</div>
 					</div>									

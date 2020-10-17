@@ -1860,3 +1860,74 @@ a {
     color: #00cda1 !important;
     font-size: 13px;
 }
+@media(min-width: 1500px){
+    .brochure-slider {
+        max-width: 74%;
+        margin-bottom: 38px;
+    }
+   .vertical-scrolling p{
+        font-size: 27px !important;
+    }
+    .vertical-scrolling h2 {
+        font-size: 51px;
+        margin-bottom: 23px;
+    }
+    .clients-logo-list{
+        width: 100% !important;
+    }
+    .about-content p {
+        margin-bottom: 10px;
+        font-size: 30px !important;
+    }
+    .about-ions .row > div {
+        border-right: 2px solid white;
+        margin: 34px 0px;
+        padding: 22px 7px;
+    }
+    .sqft img {
+        max-width: 100px;
+    }
+    .slider-left-content h4 {
+        color: #00CDA1;
+        font-size: 60px;
+    }
+    .slider-left-content h2 {
+
+        font-size: 70px !important;
+        line-height: 77px;
+
+    }
+    .slider-left-content p{
+        font-size: 35px !important;
+        line-height: 46px;
+    }
+    .separator img{
+        height: 100%;
+    }
+    .banner-inner {
+        max-width: 1800px;
+    }
+    .banner-heading{
+        font-size: 78px !important;
+        max-width: 619px;
+    }
+    .banner .online img {
+        max-height: 60px;
+    }
+    .certification img {
+        height: 60px;
+    }
+    .phone-text {
+        font-size: 56px;
+    }
+    .phone-text img {
+        width: 35px;
+    }
+    .single-widget ul li a {
+
+        font-size: 25px !important;
+    }
+    .single-widget ul li {
+        margin-bottom: 14px;
+    }
+}
