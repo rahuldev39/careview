@@ -876,6 +876,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 	$('.secondary-slider').owlCarousel({
     loop:true,
     nav:false,
+	autoplay:true,
     responsive:{
         0:{
             items:1
