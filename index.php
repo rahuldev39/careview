@@ -158,7 +158,7 @@ ONLINE</h2>
                 
                 <section>
 	                
-	                   <div class="myslider">
+	              <div class="secondary-slider owl-carousel owl-theme">
 
 					   <div class="secondary-slider-item bg-darkblue">
 					   	<div class="row h-100">
@@ -873,20 +873,21 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 <script src="assets/js/extra.js"></script>
 
 <script>
-    
-$('.myslider').slick({
-
-slidesToScroll: 1,
-arrows: false,
-speed: 2000,
-dots: true,
-autoplay: true,
-vertical: false,
-verticalSwiping: false,
-pauseOnHover: false,
-    
-});
-	
+	$('.secondary-slider').owlCarousel({
+    loop:true,
+    nav:false,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:1
+        }
+    }
+})
 	
 </script>
 
