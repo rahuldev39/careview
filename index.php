@@ -305,7 +305,7 @@ ONLINE</h2>
         
 				<!-- Start About Area Area -->
 	
-		<div class="row no-gutters h-100">
+		<div class="row no-gutters">
 					<div class="col-lg-5 position-relative" >
 					    <div id="particles-js" class="bg-white position-absolute w-100 h-100">
 						
