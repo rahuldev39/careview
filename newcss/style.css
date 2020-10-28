@@ -1701,6 +1701,23 @@ a {
     color: #00cda1 !important;
     font-size: 13px;
 }
+.page-title{
+    text-align: center;
+}
+.page-title h2 {
+    position: relative;
+    display: inline-block;
+}
+.page-title h2::after {
+    content: "";
+    height: 2px;
+    width: 50%;
+    background-color: #2e2892;
+    display: block;
+    left: 50%;
+    transform: translateX(50%);
+    margin-top: 13px;
+}
 /* Responsive */
 @media(min-width: 1367px){
 

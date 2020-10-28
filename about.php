@@ -234,7 +234,6 @@ ul.navbar-nav.m-auto {
 				    <div class="row">
 				    <div class="col-md-12 page-title">
 				        <h2 class="text-center">ABOUT US</h2>
-				        
 				    </div>
 				    
 				    </div>
