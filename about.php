@@ -250,14 +250,14 @@ ul.navbar-nav.m-auto {
 			                    <div class="ab">
 			                        
 			                         <!--<h2 class="" style="color:#fff;">About Us</h2>-->
-				                      <p style="font-weight: 900;">Care
+				                      <p class="text-light" style="font-weight: 900;">Care
 View
 is a trusted healthcare brand established by AVA International Private Limited, a known Indian leader and manufacturer in healthcare, telecommunications, IT equipments and many other sectors. With an expert team, top-notch research and development facilities, we're on a mission to manufacture and distribute medical products of utmost quality in the country.
  
 Our plant to manufacture masks as per the standards of National Institute for Occupational Safety and Health (NIOSH) or in popular language N95 | FFP2 standards is located in Sonepat, Haryana. Our quality products are certified by Defence Research and Development Organisation (DRDO), Indian Standards Institution (ISI), CE, FDA and GMP.
 </p>
 <div>
-    <p style="font-weight: 900;">Our superior quality masks with inherited blueprint of N95 standards are also decked with all its key features, these are:</p>
+    <p class="text-light" style="font-weight: 900;">Our superior quality masks with inherited blueprint of N95 standards are also decked with all its key features, these are:</p>
     <ul style="list-style-type:inherit;">
         <li>In-built adjustable nose pin for better fitting - 100% Aluminium strip of 5 mm width with PP coating.</li>
         <li>Comfortable elastic ear-loops or head-loops of 5 mm width ultrasonically sealed.</li>

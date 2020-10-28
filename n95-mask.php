@@ -55,7 +55,7 @@ include "header.php" ?>
 							<h2>CV-1221</h2>
 							<span>N95 | FFP2 Protective Mask with Ear Loops</span>
 
-								<p>Care View N95 mask provides 6 Layers Protection against harmful pathogens, airborne irritants, dust, allergens and pollens. With breathable fabric, flexible ear loops and easy-fit nose clip, this mask provides high comfort needed for long wearing hours. Its close facial fit with strong seal around the nose and mouth ensures high efficiency.</p>
+								<p class="text-white">Care View N95 mask provides 6 Layers Protection against harmful pathogens, airborne irritants, dust, allergens and pollens. With breathable fabric, flexible ear loops and easy-fit nose clip, this mask provides high comfort needed for long wearing hours. Its close facial fit with strong seal around the nose and mouth ensures high efficiency.</p>
 							
 							<ul>
 								<li>
@@ -64,11 +64,11 @@ include "header.php" ?>
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-									Particulate Filtration Efficiency (PFE) > 95%
+									Particulate Filtration Efficiency (PFE) &ge; 95%
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-							    	Bacteria Filtration Efficiency (BFE) > 99.17%
+							    	Bacteria Filtration Efficiency (BFE) &ge; 99.17%
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
@@ -124,7 +124,7 @@ include "header.php" ?>
 							<h2>CV-1221V</h2>
 							<span>N95 | FFP2 Protective Mask with Ear Loops and Exhalation Valve</span>
 
-								<p>Care View N95 mask is designed to provide foolproof protection against harmful pathogens, airborne irritants, dust, allergens and pollens with a 6 layered filtration system. With two melt-blown layers, easy-fit nose clip and exhalation valve, this mask is recommended for long wearing hours. </p>
+								<p class="text-white">Care View N95 mask is designed to provide foolproof protection against harmful pathogens, airborne irritants, dust, allergens and pollens with a 6 layered filtration system. With two melt-blown layers, easy-fit nose clip and exhalation valve, this mask is recommended for long wearing hours. </p>
 							
 							<ul>
 								<li>
@@ -133,11 +133,11 @@ include "header.php" ?>
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-									Particulate Filtration Efficiency (PFE) > 95%
+									Particulate Filtration Efficiency (PFE) &ge; 95%
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-									Bacteria Filtration Efficiency (BFE) > 99.17%
+									Bacteria Filtration Efficiency (BFE) &ge; 99.17%
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
@@ -183,7 +183,7 @@ include "header.php" ?>
 							<h2>CV-1221H</h2>
 							<span>N95 | FFP2 Protective Mask with Head Loops</span>
 
-								<p>Care View N95 mask with head loops is designed to protect the wearer against the smallest pathogens, airborne irritants, dust, allergens and pollens. Equipped with 6 layered filtration, easy-fit nose clip, flexible head loops and 3D foldable design, this is the perfect mask for wearing longer hours. </p>
+								<p class="text-white">Care View N95 mask with head loops is designed to protect the wearer against the smallest pathogens, airborne irritants, dust, allergens and pollens. Equipped with 6 layered filtration, easy-fit nose clip, flexible head loops and 3D foldable design, this is the perfect mask for wearing longer hours. </p>
 							
 							<ul>
 								<li>
@@ -192,11 +192,11 @@ include "header.php" ?>
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-									Particulate Filtration Efficiency (PFE) > 95%
+									Particulate Filtration Efficiency (PFE) &ge; 95%
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-							    	Bacteria Filtration Efficiency (BFE) > 99.17%
+							    	Bacteria Filtration Efficiency (BFE) &ge; 99.17%
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
@@ -253,7 +253,7 @@ include "header.php" ?>
 							<h2>CV-1221HV</h2>
 							<span>N95 | FFP2 Protective Mask with Head Loops and Exhalation Valve</span>
 
-								<p>Care View N95 mask decked with head loops and exhalation valve provides 6 layer protection against dangerous pathogens, airborne irritants, dust, allergens and pollens. Designed impeccably with easy-fit nose clip, flexible head loops, exhalation valve and ultrasonic sealing, this mask is a perfect fit for wearing longer hours. </p>
+								<p class="text-white">Care View N95 mask decked with head loops and exhalation valve provides 6 layer protection against dangerous pathogens, airborne irritants, dust, allergens and pollens. Designed impeccably with easy-fit nose clip, flexible head loops, exhalation valve and ultrasonic sealing, this mask is a perfect fit for wearing longer hours. </p>
 							
 							<ul>
 								<li>
@@ -262,11 +262,11 @@ include "header.php" ?>
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-									Particulate Filtration Efficiency (PFE) > 95%
+									Particulate Filtration Efficiency (PFE) &ge; 95%
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-									Bacteria Filtration Efficiency (BFE) > 99.17%
+									Bacteria Filtration Efficiency (BFE) &ge; 99.17%
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>

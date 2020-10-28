@@ -53,7 +53,7 @@
 							<h2>CV-2992</h2>
 							<span>Disposable Protective 3 Ply Mask</span>
 
-								<p>Care View 3 Ply Mask with SSMMS layer in middle is designed for non-medical purpose and recommended for protection in day-to-day life from pollution and other particulates.</p>
+								<p class="text-white">Care View 3 Ply Mask with SSMMS layer in middle is designed for non-medical purpose and recommended for protection in day-to-day life from pollution and other particulates.</p>
 							
 							<ul>
 								<li>
@@ -62,7 +62,7 @@
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-									Bacteria Filtration Efficiency (BFE) > 97%
+									Bacteria Filtration Efficiency (BFE) &ge; 97%
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
@@ -130,7 +130,7 @@
 							<h2>CV-2992M</h2>
 							<span>Disposable Protective 3 Ply Mask with Melt-Blown Layer</span>
 
-								<p>Care View 3 Ply Mask with Meltblown Filtration Layer is designed for medical usage. It is recommended for sturdy protection against pollution and small particulates and other professional usage.</p>
+								<p class="text-white">Care View 3 Ply Mask with Meltblown Filtration Layer is designed for medical usage. It is recommended for sturdy protection against pollution and small particulates and other professional usage.</p>
 							
 							<ul>
 								<li>
@@ -139,7 +139,7 @@
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>
-									Bacteria Filtration Efficiency (BFE) > 97%
+									Bacteria Filtration Efficiency (BFE) &ge; 97%
 								</li>
 								<li>
 									<i class="flaticon-checked"></i>

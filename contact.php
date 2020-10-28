@@ -104,8 +104,10 @@ include "header.php" ?>
 
 					<div class="col-lg-4">
 						<div class="quick-contact">
-							<h4>AVA International Pvt. Ltd.</h4>
-
+							
+							<div class="section-title">
+									<h2>AVA International Pvt. Ltd.</h2>
+								</div>
 							<ul>
 								<li>
 									<i class="bx bx-location-plus"></i>
