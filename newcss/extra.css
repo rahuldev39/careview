@@ -18,23 +18,15 @@
       }
       
       header{padding-top:0 !important;}
-      .banner .SliderJs_box > div {
-        background-size: cover !important;
-        height: calc(100vh - 78px);
-        background-position: right;
-    }
-.slick-dotted.slick-slider {
-    margin-bottom: 0  !important;
-}
+      
+
       @media (max-width: 768px){
         #sitepop .modal-dialog{
           width: 96% !important;
         }
       }    
       
-      .SliderJs_box{
-		  position:relative;
-	  }
+     
 	  .banner_btn1{
 		    position: absolute;
 			right: 10%;

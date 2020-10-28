@@ -1775,7 +1775,6 @@ Footer Top Area Style
 }
 .footer-main{
   padding-top: 100px;
-  padding-bottom: 58px;
 }
 .footer-top-area::before {
   content: "";
@@ -8213,7 +8212,7 @@ div#stats {
   position: relative;
 }
 .about-ions{
-  padding: 100px 30px 20px 30px;
+
 }
 
 

