@@ -1722,9 +1722,26 @@ a {
 .main-slider-item{
     min-width: 100vw;
 }
-
-
-
+.clients-img {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 12px 17px;
+}
+.clients-img img {
+    max-height: 55px;
+    object-fit: contain;
+    width: 100%;
+}
+.client-area{
+    position: relative;
+    overflow: hidden;
+}
+.client-area canvas{
+    left: 0;
+    top: 0;
+    opacity: .4;
+}
 /* Responsive */
 @media(min-width: 1367px){
 
@@ -1984,8 +2001,15 @@ a {
 }
 
 @media(min-width: 1500px){
+    .clients-img img {
+        max-height: 70px;
+    }
+    .clients-img {
+       
+        padding: 18px 17px;
+    }
     .brochure-slider {
-        max-width: 450px;
+        max-width: 300px;
         margin-bottom: 38px;
     }
     .clients-logo-list {

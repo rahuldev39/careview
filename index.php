@@ -395,7 +395,82 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 						<div class=" px-4 py-5">
 							<h2 class="section-lead text-blue">Our Industry Clientele </h2>
 							<p class="section-text">With huge production capacity clubbed with skilled workers working day and night, we ensure to fulfill each bulk order on time.</p>
-							<img src="assets/img/multi-logo1.jpg" class="clients-logo-list" alt="Image" style="">
+							<div class="row clients">
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/AMI.png" alt="">
+									</div>
+								</div>
+								
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/Awfis.png" alt="">
+									</div>
+								</div>
+
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/big-bazzar.png" alt="">
+									</div>
+								</div>
+
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/Cp-medsw.png" alt="">
+									</div>
+								</div>
+
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/Jio.png" alt="">
+									</div>
+								</div>
+
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/regus.png" alt="">
+									</div>
+								</div>
+
+							
+
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/smartworks.png" alt="">
+									</div>
+								</div>
+
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/tata.png" alt="">
+									</div>
+								</div>
+
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/tCA.png" alt="">
+									</div>
+								</div>
+
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/udaaan.png" alt="">
+									</div>
+								</div>
+
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/vodafone.png" alt="">
+									</div>
+								</div>
+
+								<div class="col-md-4 col-sm-3 col-6">
+									<div class="clients-img">
+										<img src="./img/clients/Wipro.png" alt="">
+									</div>
+								</div>
+								
+							</div>
 						</div>
 					</div>
 				</div>									

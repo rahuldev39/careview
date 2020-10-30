@@ -27,6 +27,7 @@ include "header.php" ?>
 		
 		
 			<section class="client-area ptb-100 ptt">
+			<canvas class="bg-white position-absolute w-100 h-100" id="example"></canvas>
 			<div class="container">
 				
 				

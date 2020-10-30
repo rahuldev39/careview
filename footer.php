@@ -306,7 +306,7 @@
 	
         <!-- Custom JS -->
 		<script src="assets/js/custom.js"></script>
-		
+		<script src="assets/js/particler.min.js"></script>
 		
 		<script>window.twttr = (function (d, s, id) {
   var t, js, fjs = d.getElementsByTagName(s)[0];
@@ -335,6 +335,38 @@
 		}
 		</script>
 		
-	
+		<script>
+
+var ParticlerExample = new Particler("example",{
+
+// these are default options
+
+    // Amount of particles
+    quantity: 15,
+
+    // line width
+    lineWidth: 0.08,
+
+    // color of particles
+    fillColor: "#2d289245",
+
+    // min/max sizes
+    minSize: 1,
+    maxSize: 3,
+
+    // minimailist line length
+    minimalLineLength: 500,
+
+    // animation speed
+    speed: 20,
+
+    // frame update time
+    frameDuration: 25,
+
+    // background color
+    backgroundColor: 'transparent'
+
+});
+</script>
     </body>
 </html>

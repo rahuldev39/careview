@@ -230,6 +230,7 @@ ul.navbar-nav.m-auto {
 		
 		<!-- New-->
 		<section class="client-area ptb-100 ptt">
+      <canvas class="bg-white position-absolute w-100 h-100" id="example"></canvas>
 			<div class="container">
 				
 				
@@ -278,13 +279,27 @@ Our plant to manufacture masks as per the standards of National Institute for Oc
 			</div>
 		</section> 
 
-	
+		<section class="client-area ptb-100 ptt">
+      <canvas class="bg-white position-absolute w-100 h-100" id="example"></canvas>
+			<div class="container">
+				
+				
+				<div class="col-md-12">
+				    <div class="row">
+				    <div class="col-md-12 page-title">
+				        <h2 class="text-center">Our Office</h2>
+				    </div>
+				    
+				    </div>
+				</div>
+			</div>
+		</section>
 		
 		<section class="client-area ptb-40">
 			<div class="container">
 				
 
-				    <div class="gallery-wrapper">
+				    <div class="gallery-wrapper pt-0">
 
             <div class="row">
 				    <div class="col-md-6">
@@ -338,6 +353,14 @@ Our plant to manufacture masks as per the standards of National Institute for Oc
 				</div>
                           
                           
+                    </div>
+
+
+                    <div class="text-center mb-5">
+
+                    <a href="about.php" class="default-btn" style="font-weight:bold;">
+								SEE MORE
+							</a>
                     </div>
 
 				

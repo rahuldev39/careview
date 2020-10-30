@@ -22,15 +22,27 @@
 		</div>
 		<!-- End Page Title Area -->
 
-		<!-- Start Project Area -->
-		<section class="project-area project-page ">
-			<div class="container-fluid">
-
-			<div class="ptb-100">
-				<div class="col-md-12 page-title">
-					<h2 class="text-center">Our Gallery</h2> 
+		<section class="client-area ptb-100 ptt">
+			<canvas class="bg-white position-absolute w-100 h-100" id="example"></canvas>
+			<div class="container">
+				
+				
+				<div class="col-md-12">
+				    <div class="row">
+				    <div class="col-md-12 page-title">
+				        <h2 class="text-center">Our Gallery</h2>
+				        
+				    </div>
+				    
+				    </div>
 				</div>
 			</div>
+		</section>
+
+		<!-- Start Project Area -->
+		<section class="project-area project-page">
+		
+			<div class="container-fluid">
 
 				<div class="row">
 					<div class="col-lg-4 col-sm-6">
