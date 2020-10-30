@@ -266,7 +266,8 @@ ONLINE</h2>
         
 		<div class="row no-gutters h-100">
 					<div class="col-lg-5 position-relative d-flex align-items-center vertical-padder bg-white" >
-					    <!-- <div id="particles-js" class="bg-white position-absolute w-100 h-100"></div> -->
+						<!-- <div id="particles-js" class="bg-white position-absolute w-100 h-100"></div> -->
+						<canvas class="bg-white position-absolute w-100 h-100" id="example"></canvas>
 						<div class="health position-relative px-4 py-5">
 							<h2 class="section-lead text-purple">Care View: Reliable Healthcare Products </h2>
 							<p class="section-text mb-5">Care View is a trusted brand of AVA International Pvt. Ltd., a leading organisation supplying specialised medical and healthcare products ranging from personal protective equipment to protective mask.
@@ -624,9 +625,11 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 		<!-- Nice Select JS -->
 		<script src="assets/js/jquery.nice-select.min.js"></script>
 		<!-- Appear JS --> 
-		<script src="assets/js/jquery.appear.js"></script>
+		<!-- <script src="assets/js/particles.min.js"></script> -->
 
 		<script src="assets/js/extra.js"></script>
+		<script src="assets/js/particler.min.js"></script>
+		
 
 		
 
@@ -707,6 +710,40 @@ $("#fullpage").fullpage({
 		keyboardScrolling: true,
     })
 
+</script>
+
+<script>
+
+var ParticlerExample = new Particler("example",{
+
+// these are default options
+
+    // Amount of particles
+    quantity: 15,
+
+    // line width
+    lineWidth: 0.08,
+
+    // color of particles
+    fillColor: "#2d289245",
+
+    // min/max sizes
+    minSize: 1,
+    maxSize: 3,
+
+    // minimailist line length
+    minimalLineLength: 250,
+
+    // animation speed
+    speed: 20,
+
+    // frame update time
+    frameDuration: 25,
+
+    // background color
+    backgroundColor: 'transparent'
+
+});
 </script>
 
 
