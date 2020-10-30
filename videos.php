@@ -1,6 +1,7 @@
 <?php include "header.php" ?>
 		
-		
+<body onload="myFunction()">
+<?php include "nav.php" ?>		
 		<!-- Start Page Title Area -->
 		<div class="page-title-area bg-21">
 			<div class="container">

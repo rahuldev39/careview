@@ -1,7 +1,9 @@
 <?php
 $page = 'n95';
 include "header.php" ?>
-		
+
+<body onload="myFunction()">
+<?php include "nav.php" ?>		
 		<!-- Start Page Title Area -->
 		<div class="page-title-area bg-23 n95">
 			<div class="container">

@@ -204,6 +204,9 @@ ul.navbar-nav.m-auto {
     right: -212px;
 }
 </style>
+
+<body onload="myFunction()">
+<?php include "nav.php" ?>
 		<!-- Start Page Title Area -->
 		<div class="page-title-area bg-1">
 			<div class="container">

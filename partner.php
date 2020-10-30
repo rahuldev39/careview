@@ -2,7 +2,8 @@
 $page = 'partner';
 include "header.php" ?>
 
-		
+<body onload="myFunction()">
+<?php include "nav.php" ?>		
 		<!-- Start Page Title Area -->
 		<div class="page-title-area bg-26">
 			<div class="container">

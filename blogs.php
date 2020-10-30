@@ -70,7 +70,8 @@
       
     </style>
    
-
+   <body onload="myFunction()">
+   <?php include "nav.php" ?>
 <div id="fullpage">
     <div class="section vertical-scrolling fp-section fp-table active fp-completely" id="section0" data-anchor="About" style="height: 625px;"><div class="fp-tableCell" style="height: 625px;">
       <div class="overlay"></div>

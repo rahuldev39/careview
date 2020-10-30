@@ -1,7 +1,8 @@
 <?php
 $page = 'contact';
 include "header.php" ?>
-		
+<body onload="myFunction()">
+<?php include "nav.php" ?>		
 		<!-- Start Page Title Area -->
 		<div class="page-title-area bg-19">
 			<div class="container">

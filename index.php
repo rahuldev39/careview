@@ -26,7 +26,9 @@ include "header.php"
         ga('send', 'pageview');
     </script>
     
+<body class="overflow-md-hidden" onload="myFunction()">
 
+<?php include "nav.php" ?>
 
 <div id="fullpage">
     <div class="section aboutus vertical-scrolling" id="section0">
@@ -626,6 +628,8 @@ Our expertise is supported by large manufacturing facility and a PAN India distr
 
 		<script src="assets/js/extra.js"></script>
 
+		
+
 <script>
     
 	$('.SliderJs').slick({
@@ -704,6 +708,8 @@ $("#fullpage").fullpage({
     })
 
 </script>
+
+
 
 </body>
 </html>

@@ -317,7 +317,8 @@ border-radius: 50%;
 
     </style>
    
-
+   <body onload="myFunction()">
+   <?php include "nav.php" ?>
 <div id="fullpage">
     <div class="section aboutus vertical-scrolling" id="section0">
 		
